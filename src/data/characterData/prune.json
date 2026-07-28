@@ -447,11 +447,11 @@
     },
     {
       "name": "Useful for Cleaning Messy Baggage, Elemental Powers Are Indeed",
-      "description": "During the Elemental Burst <span style=\"color: #FFD780FF;\">The Bell Tolls! The Hunt Is On!</span>, when the Witchlure Bell is in Hunter-Seeker mode, Prune gains the Hunt the Witch effect: Prune's ATK increases by 10%, and when the Witchlure Bell and the <span style=\"color: #FFD780FF;\">Banehunter Oathhammer</span> that has undergone Elemental Conversion hits an opponent, it further increases her ATK by 5%. Prune's ATK can be increased by up to 40% in this way.\\nThe original instance of the above effect will be removed if \"The Bell Tolls! The Hunt Is On!\" is used again during this time."
+      "description": "During the Elemental Burst <span style=\"color: #FFD780FF;\">The Bell Tolls! The Hunt Is On!</span>, when the Witchlure Bell is in Hunter-Seeker mode, Prune gains the Hunt the Witch effect: Prune's ATK increases by 10%, and when the Witchlure Bell and the <span style=\"color: #FFD780FF;\">Banehunter Oathhammer</span> that has undergone Elemental Conversion hits an opponent, it further increases her ATK by 5%. Prune's ATK can be increased by up to 40% in this way.\nThe original instance of the above effect will be removed if \"The Bell Tolls! The Hunt Is On!\" is used again during this time."
     },
     {
       "name": "The Caravan Exits the Mountain Pass, the Scenery Once More Changed",
-      "description": "Increases the Level of <span style=\"color: #FFD780FF;\">The Bell Tolls! The Hunt Is On!</span> by 3.\\nMaximum upgrade level is 15."
+      "description": "Increases the Level of <span style=\"color: #FFD780FF;\">The Bell Tolls! The Hunt Is On!</span> by 3.\nMaximum upgrade level is 15."
     },
     {
       "name": "Looking Back Following the Wind, One's Shadow Still Halved",
@@ -459,11 +459,11 @@
     },
     {
       "name": "100 Defeats? No Problem, Tomorrow, We Go Again",
-      "description": "Increases the Level of <span style=\"color: #FFD780FF;\">Ring-A-Ding-Ding! Hexhunter Chime</span> by 3.\\nMaximum upgrade level is 15."
+      "description": "Increases the Level of <span style=\"color: #FFD780FF;\">Ring-A-Ding-Ding! Hexhunter Chime</span> by 3.\nMaximum upgrade level is 15."
     },
     {
       "name": "And That's the Story! Share It With Your Friends!",
-      "description": "The duration of the Witchlure Bell's Hunter-Seeker mode from the Elemental Burst <span style=\"color: #FFD780FF;\">The Bell Tolls! The Hunt Is On!</span> is extended by 4s.\\nAdditionally, after party members affected by Tolling Rally trigger any Elemental Reaction, they will cause Prune and the other current active character(s) affected by Tolling Rally to gain 350 ATK for 5s."
+      "description": "The duration of the Witchlure Bell's Hunter-Seeker mode from the Elemental Burst <span style=\"color: #FFD780FF;\">The Bell Tolls! The Hunt Is On!</span> is extended by 4s.\nAdditionally, after party members affected by Tolling Rally trigger any Elemental Reaction, they will cause Prune and the other current active character(s) affected by Tolling Rally to gain 350 ATK for 5s."
     }
   ],
   "passives": [
@@ -478,11 +478,15 @@
     {
       "name": "Tinker-Tink, Clank, and Bang!",
       "description": "Has a 10% chance to get 1 regional Character Talent Material (base material excluded) when crafting. The rarity is the same as the resulting material."
+    },
+    {
+      "name": "Witch's Eve Rite: Witchseeker's Vow",
+      "description": "After completing <span style=\"color: #FFD780FF;\">Witch's Homework: Of What Is Contested</span>, Prune becomes a <span style=\"color: #FFD780FF;\">Hexerei</span> character. When the party includes at least 2 Hexerei characters, you gain the <span style=\"color: #FFD780FF;\">Hexerei: Secret Rite</span> effect, which enhances Hexerei characters.\n\n<span style=\"color: #FFD780FF;\">Hexerei: Secret Rite</span>\nAfter a Hexerei character in the party affected by the Tolling Rally effect triggers an Elemental Reaction on an opponent, Prune's ATK is increased by 60% for 5s. If the Elemental Reaction triggered is a Swirl Reaction, the triggering character's ATK will additionally be increased by 30% for 5s."
     }
   ],
   "burst": {
     "name": "The Bell Tolls! The Hunt Is On!",
-    "description": "Prune gently swings the Witchlure Bell, dealing <span style=\"color: #80FFD7FF;\">Anemo DMG</span> to nearby opponents. After this, the Bell will enter the Hunter-Seeker mode.\\n\\n<span style=\"color: #FFD780FF;\">Witchlure Bell: Hunter-Seeker</span>\\nIn this mode, the Witchlure Bell will follow the current active character, attacking surrounding opponents at intervals and dealing <span style=\"color: #80FFD7FF;\">AoE Anemo DMG</span>. This DMG is considered Elemental Burst DMG.\\n\\n<i>\"Descartes might be an imaginary friend, but that doesn't mean he's 'fake.' He's 'my' imaginary friend, and that's exactly how he exists in truth.\"</i>",
+    "description": "Prune gently swings the Witchlure Bell, dealing <span style=\"color: #80FFD7FF;\">Anemo DMG</span> to nearby opponents. After this, the Bell will enter the Hunter-Seeker mode.\n\n<span style=\"color: #FFD780FF;\">Witchlure Bell: Hunter-Seeker</span>\nIn this mode, the Witchlure Bell will follow the current active character, attacking surrounding opponents at intervals and dealing <span style=\"color: #80FFD7FF;\">AoE Anemo DMG</span>. This DMG is considered Elemental Burst DMG.\\n\\n<i>\"Descartes might be an imaginary friend, but that doesn't mean he's 'fake.' He's 'my' imaginary friend, and that's exactly how he exists in truth.\"</i>",
     "skillLabels": [
       "Skill DMG",
       "Witchlure Bell DMG",
@@ -733,11 +737,13 @@
           70
         ]
       ]
-    ]
+    ],
+    "skillIndex": [],
+    "skillBuffIndex": []
   },
   "attack": {
     "name": "Badaboom! Hexbuster Hammer",
-    "description": "<span style=\"color: #FFD780FF;\">Normal Attack</span>\\nPerforms up to 3 attacks by swinging the Banehunter Oathhammer, dealing <span style=\"color: #80FFD7FF;\">Anemo DMG</span>.\\n\\n<span style=\"color: #FFD780FF;\">Charged Attack</span>\\nConsumes a certain amount of Stamina and performs an upward hammer swing, dealing <span style=\"color: #80FFD7FF;\">Anemo DMG</span> to opponents in front.\\n\\n<span style=\"color: #FFD780FF;\">Plunging Attack</span>\\nCalling upon the power of Anemo, she plunges towards the ground from mid-air, damaging all opponents in her path. Deals <span style=\"color: #80FFD7FF;\">AoE Anemo DMG</span> upon impact with the ground.",
+    "description": "<span style=\"color: #FFD780FF;\">Normal Attack</span>\nPerforms up to 3 attacks by swinging the Banehunter Oathhammer, dealing <span style=\"color: #80FFD7FF;\">Anemo DMG</span>.\n\n<span style=\"color: #FFD780FF;\">Charged Attack</span>\nConsumes a certain amount of Stamina and performs an upward hammer swing, dealing <span style=\"color: #80FFD7FF;\">Anemo DMG</span> to opponents in front.\n\n<span style=\"color: #FFD780FF;\">Plunging Attack</span>\nCalling upon the power of Anemo, she plunges towards the ground from mid-air, damaging all opponents in her path. Deals <span style=\"color: #80FFD7FF;\">AoE Anemo DMG</span> upon impact with the ground.",
     "skillLabels": [
       "1-Hit DMG",
       "2-Hit DMG",
@@ -1101,7 +1107,9 @@
           3.79592
         ]
       ]
-    ]
+    ],
+    "skillIndex": [],
+    "skillBuffIndex": []
   },
   "links": {
     "11320001": {
@@ -1111,7 +1119,7 @@
   },
   "elementalSkill": {
     "name": "Ring-A-Ding-Ding! Hexhunter Chime",
-    "description": "Unleash the wind's might to defeat the evil witch and save Descartes! Prune strikes the Witchlure Bell with her Banehunter Oathhammer, dealing <span style=\"color: #80FFD7FF;\">Anemo DMG</span>.\\nIf Prune triggers Swirl on an opponent using this attack, <span style=\"color: #FFD780FF;\">Ring-A-Ding-Ding! Hexhunter Chime</span> will be changed to <span style=\"color: #FFD780FF;\">Clang Clang! Witch-tribution Comes!</span> for the next 6s.\\n\\n<span style=\"color: #FFD780FF;\">Clang Clang! Witch-tribution Comes!</span>\\nPrune's hammer is now enshrouded by the element involved in the previous Swirl reaction, causing <button data-link=\"11320001\"><span style=\"color: #FFD780FF;\">Banehunter Oathhammer</span></button> to undergo Elemental Conversion. When activated with a Press, Prune will leap up and kick the Banehunter Oathhammer forward, dealing Elemental DMG of the corresponding type to opponents in front of her.\\n\\n<i>\"Do you know a wicked witch who wears a hollowed-out hat and bullies little kids for fun? She's my ultimate target. The Witch Hunter's mortal enemy!\"</i>",
+    "description": "Unleash the wind's might to defeat the evil witch and save Descartes! Prune strikes the Witchlure Bell with her Banehunter Oathhammer, dealing <span style=\"color: #80FFD7FF;\">Anemo DMG</span>.\nIf Prune triggers Swirl on an opponent using this attack, <span style=\"color: #FFD780FF;\">Ring-A-Ding-Ding! Hexhunter Chime</span> will be changed to <span style=\"color: #FFD780FF;\">Clang Clang! Witch-tribution Comes!</span> for the next 6s.\n\n<span style=\"color: #FFD780FF;\">Clang Clang! Witch-tribution Comes!</span>\nPrune's hammer is now enshrouded by the element involved in the previous Swirl reaction, causing <button data-link=\"11320001\"><span style=\"color: #FFD780FF;\">Banehunter Oathhammer</span></button> to undergo Elemental Conversion. When activated with a Press, Prune will leap up and kick the Banehunter Oathhammer forward, dealing Elemental DMG of the corresponding type to opponents in front of her.\\n\\n<i>\"Do you know a wicked witch who wears a hollowed-out hat and bullies little kids for fun? She's my ultimate target. The Witch Hunter's mortal enemy!\"</i>",
     "skillLabels": [
       "Ring-A-Ding-Ding! Hexhunter Chime DMG",
       "Clang Clang! Witch-tribution Comes! DMG",
@@ -1264,6 +1272,8 @@
           15
         ]
       ]
-    ]
+    ],
+    "skillIndex": [],
+    "skillBuffIndex": []
   }
 }

@@ -451,7 +451,7 @@
     },
     {
       "name": "Desperate Gamble",
-      "description": "Increases the Level of <span style=\"color: #FFD780FF;\">Hidden Aces: Seven Tools of the Hunter</span> by 3.\\nMaximum upgrade level is 15."
+      "description": "Increases the Level of <span style=\"color: #FFD780FF;\">Hidden Aces: Seven Tools of the Hunter</span> by 3.\nMaximum upgrade level is 15."
     },
     {
       "name": "Wild Berry Amid the Dust",
@@ -459,7 +459,7 @@
     },
     {
       "name": "The Greatest Treasure",
-      "description": "Increases the Level of <span style=\"color: #FFD780FF;\">Savvy Strategy: Splitting the Spoils</span> by 3.\\nMaximum upgrade level is 15."
+      "description": "Increases the Level of <span style=\"color: #FFD780FF;\">Savvy Strategy: Splitting the Spoils</span> by 3.\nMaximum upgrade level is 15."
     },
     {
       "name": "The Littlest Luck",
@@ -469,7 +469,7 @@
   "passives": [
     {
       "name": "Plan to Get Paid",
-      "description": "When your team has at least one <span style=\"color: #FF9999FF;\">Pyro</span>, <span style=\"color: #80C0FFFF;\">Hydro</span>, <span style=\"color: #FFACFFFF;\">Electro</span>, or <span style=\"color: #99FFFFFF;\">Cryo</span> character, the <span style=\"color: #FFD780FF;\">Purrsonal Coordinated Assistance Robots</span> from the Elemental Burst <span style=\"color: #FFD780FF;\">Hidden Aces: Seven Tools of the Hunter</span> will be enhanced based on the number of characters of each corresponding element.\\nJahoda secretly keeps track of these characters. Among them, the element with the highest number of characters determines the enhancement effect:\\n· <span style=\"color: #FF9999FF;\">Pyro</span>: <span style=\"color: #FFD780FF;\">Purrsonal Coordinated Assistance Robots</span> deal 130% of their original DMG.\\n· <span style=\"color: #80C0FFFF;\">Hydro</span>: <span style=\"color: #FFD780FF;\">Purrsonal Coordinated Assistance Robots</span> heal for 120% of their original healing amount.\\n· <span style=\"color: #FFACFFFF;\">Electro</span>: The number of <span style=\"color: #FFD780FF;\">Purrsonal Coordinated Assistance Robots</span> increases by one.\\n· <span style=\"color: #99FFFFFF;\">Cryo</span>: The attack interval of <span style=\"color: #FFD780FF;\">Purrsonal Coordinated Assistance Robots</span> is reduced by 10%.\\n\\nIf there's a tie between elements, the order of priority that determines which enhancement takes effect is: <span style=\"color: #FF9999FF;\">Pyro</span>, <span style=\"color: #80C0FFFF;\">Hydro</span>, <span style=\"color: #FFACFFFF;\">Electro</span>, then <span style=\"color: #99FFFFFF;\">Cryo</span>. Only one elemental effect can initially be triggered."
+      "description": "When your team has at least one <span style=\"color: #FF9999FF;\">Pyro</span>, <span style=\"color: #80C0FFFF;\">Hydro</span>, <span style=\"color: #FFACFFFF;\">Electro</span>, or <span style=\"color: #99FFFFFF;\">Cryo</span> character, the <span style=\"color: #FFD780FF;\">Purrsonal Coordinated Assistance Robots</span> from the Elemental Burst <span style=\"color: #FFD780FF;\">Hidden Aces: Seven Tools of the Hunter</span> will be enhanced based on the number of characters of each corresponding element.\nJahoda secretly keeps track of these characters. Among them, the element with the highest number of characters determines the enhancement effect:\n· <span style=\"color: #FF9999FF;\">Pyro</span>: <span style=\"color: #FFD780FF;\">Purrsonal Coordinated Assistance Robots</span> deal 130% of their original DMG.\n· <span style=\"color: #80C0FFFF;\">Hydro</span>: <span style=\"color: #FFD780FF;\">Purrsonal Coordinated Assistance Robots</span> heal for 120% of their original healing amount.\n· <span style=\"color: #FFACFFFF;\">Electro</span>: The number of <span style=\"color: #FFD780FF;\">Purrsonal Coordinated Assistance Robots</span> increases by one.\n· <span style=\"color: #99FFFFFF;\">Cryo</span>: The attack interval of <span style=\"color: #FFD780FF;\">Purrsonal Coordinated Assistance Robots</span> is reduced by 10%.\n\nIf there's a tie between elements, the order of priority that determines which enhancement takes effect is: <span style=\"color: #FF9999FF;\">Pyro</span>, <span style=\"color: #80C0FFFF;\">Hydro</span>, <span style=\"color: #FFACFFFF;\">Electro</span>, then <span style=\"color: #99FFFFFF;\">Cryo</span>. Only one elemental effect can initially be triggered."
     },
     {
       "name": "Sweet Berry Bounty",
@@ -496,7 +496,7 @@
   },
   "burst": {
     "name": "Hidden Aces: Seven Tools of the Hunter",
-    "description": "Time to reveal those pocket aces! Jahoda retrieves 2 <button data-link=\"11240002\"><span style=\"color: #FFD780FF;\">Purrsonal Coordinated Assistance Robots</span></button> and deals a single instance of <span style=\"color: #80FFD7FF;\">Anemo DMG</span> to nearby opponents.\\n\\n<i>\"Coordinated assistance? It means you 'assist' some Mora our way, and we handle the 'coordination.' Makes purrfect sense, don't you agree?\"</i>",
+    "description": "Time to reveal those pocket aces! Jahoda retrieves 2 <button data-link=\"11240002\"><span style=\"color: #FFD780FF;\">Purrsonal Coordinated Assistance Robots</span></button> and deals a single instance of <span style=\"color: #80FFD7FF;\">Anemo DMG</span> to nearby opponents.\n\n<i>\"Coordinated assistance? It means you 'assist' some Mora our way, and we handle the 'coordination.' Makes purrfect sense, don't you agree?\"</i>",
     "skillLabels": [
       "Skill DMG",
       "Purrsonal Coordinated Assistance Robot DMG",
@@ -875,11 +875,13 @@
           70
         ]
       ]
-    ]
+    ],
+    "skillIndex": [],
+    "skillBuffIndex": []
   },
   "attack": {
     "name": "Strike While the Arrow's Hot",
-    "description": "<span style=\"color: #FFD780FF;\">Normal Attack</span>\\nPerforms up to 3 consecutive shots with a bow.\\n\\n<span style=\"color: #FFD780FF;\">Charged Attack</span>\\nPerforms a more precise <span style=\"color: #FFD780FF;\">Aimed Shot</span> with increased DMG.\\nWhile aiming, mighty winds will accumulate on the arrowhead. A fully charged wind arrow will deal <span style=\"color: #80FFD7FF;\">Anemo DMG</span>.\\n\\n<span style=\"color: #FFD780FF;\">Plunging Attack</span>\\nFires off a shower of arrows in mid-air before falling and striking the ground, hitting opponents along the path and dealing AoE DMG upon impact.",
+    "description": "<span style=\"color: #FFD780FF;\">Normal Attack</span>\nPerforms up to 3 consecutive shots with a bow.\n\n<span style=\"color: #FFD780FF;\">Charged Attack</span>\nPerforms a more precise <span style=\"color: #FFD780FF;\">Aimed Shot</span> with increased DMG.\nWhile aiming, mighty winds will accumulate on the arrowhead. A fully charged wind arrow will deal <span style=\"color: #80FFD7FF;\">Anemo DMG</span>.\n\n<span style=\"color: #FFD780FF;\">Plunging Attack</span>\nFires off a shower of arrows in mid-air before falling and striking the ground, hitting opponents along the path and dealing AoE DMG upon impact.",
     "skillLabels": [
       "1-Hit DMG",
       "2-Hit DMG",
@@ -1243,11 +1245,13 @@
           3.79592
         ]
       ]
-    ]
+    ],
+    "skillIndex": [],
+    "skillBuffIndex": []
   },
   "elementalSkill": {
     "name": "Savvy Strategy: Splitting the Spoils",
-    "description": "Jahoda dashes toward her opponent, entering the Shadow Pursuit state upon contact. While in this state, Jahoda moves continuously and swiftly: If nearby opponents are affected by <span style=\"color: #FF9999FF;\">Pyro</span>, <span style=\"color: #80C0FFFF;\">Hydro</span>, <span style=\"color: #FFACFFFF;\">Electro</span>, or <span style=\"color: #99FFFFFF;\">Cryo</span>, she will quietly convert her <button data-link=\"11240001\"><span style=\"color: #FFD780FF;\">Purr-loined Treasure Flask</span></button> to that element, gradually filling it. When the duration ends or the skill is used again, Jahoda drains the <span style=\"color: #FFD780FF;\">Purr-loined Treasure Flask</span> and deals a single instance of <span style=\"color: #80FFD7FF;\">Anemo DMG</span> to nearby opponents. When the <span style=\"color: #FFD780FF;\">Purr-loined Treasure Flask</span> is full, Jahoda immediately drains it, exiting the Shadow Pursuit state and dealing a more powerful instance of <span style=\"color: #80FFD7FF;\">Anemo DMG</span>.\\nIf her dash fails to make contact with an opponent, Jahoda instead drops a Smoke Bomb at her location, dealing a single instance of <span style=\"color: #80FFD7FF;\">Anemo DMG</span> to nearby opponents.\\n\\n<span style=\"color: #FFD780FF;\">Moonsign: Ascendant Gleam</span>: When the <span style=\"color: #FFD780FF;\">Purr-loined Treasure Flask</span> becomes full, Jahoda will not immediately discharge it. Instead, for a short duration, she steadily consumes the stored element inside and periodically fires <span style=\"color: #FFD780FF;\">Fluffy Meowballs</span> at nearby opponents, dealing DMG of the corresponding element stored in the <span style=\"color: #FFD780FF;\">Purr-loined Treasure Flask</span>. When a <span style=\"color: #FFD780FF;\">Fluffy Meowball</span> hits an opponent, Jahoda regenerates 2 Elemental Energy. This effect can be triggered once every 3.5s.\\n\\n<i>There are many ways to divide wealth in this world — but for Nod-Krai's treasure hunters — and hoarders — only one has ever proven sufficiently effective.</i>",
+    "description": "Jahoda dashes toward her opponent, entering the Shadow Pursuit state upon contact. While in this state, Jahoda moves continuously and swiftly: If nearby opponents are affected by <span style=\"color: #FF9999FF;\">Pyro</span>, <span style=\"color: #80C0FFFF;\">Hydro</span>, <span style=\"color: #FFACFFFF;\">Electro</span>, or <span style=\"color: #99FFFFFF;\">Cryo</span>, she will quietly convert her <button data-link=\"11240001\"><span style=\"color: #FFD780FF;\">Purr-loined Treasure Flask</span></button> to that element, gradually filling it. When the duration ends or the skill is used again, Jahoda drains the <span style=\"color: #FFD780FF;\">Purr-loined Treasure Flask</span> and deals a single instance of <span style=\"color: #80FFD7FF;\">Anemo DMG</span> to nearby opponents. When the <span style=\"color: #FFD780FF;\">Purr-loined Treasure Flask</span> is full, Jahoda immediately drains it, exiting the Shadow Pursuit state and dealing a more powerful instance of <span style=\"color: #80FFD7FF;\">Anemo DMG</span>.\nIf her dash fails to make contact with an opponent, Jahoda instead drops a Smoke Bomb at her location, dealing a single instance of <span style=\"color: #80FFD7FF;\">Anemo DMG</span> to nearby opponents.\n\n<span style=\"color: #FFD780FF;\">Moonsign: Ascendant Gleam</span>: When the <span style=\"color: #FFD780FF;\">Purr-loined Treasure Flask</span> becomes full, Jahoda will not immediately discharge it. Instead, for a short duration, she steadily consumes the stored element inside and periodically fires <span style=\"color: #FFD780FF;\">Fluffy Meowballs</span> at nearby opponents, dealing DMG of the corresponding element stored in the <span style=\"color: #FFD780FF;\">Purr-loined Treasure Flask</span>. When a <span style=\"color: #FFD780FF;\">Fluffy Meowball</span> hits an opponent, Jahoda regenerates 2 Elemental Energy. This effect can be triggered once every 3.5s.\n\n<i>There are many ways to divide wealth in this world — but for Nod-Krai's treasure hunters — and hoarders — only one has ever proven sufficiently effective.</i>",
     "skillLabels": [
       "Smoke Bomb DMG",
       "Unfilled Treasure Flask DMG",
@@ -1547,6 +1551,8 @@
           15
         ]
       ]
-    ]
+    ],
+    "skillIndex": [],
+    "skillBuffIndex": []
   }
 }

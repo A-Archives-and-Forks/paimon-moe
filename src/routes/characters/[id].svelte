@@ -228,7 +228,7 @@
   function highlightLink(text) {
     for (const link of links) {
       link.highlight(text);
-    } 
+    }
   }
 
   async function changeLocale(locale) {
@@ -251,10 +251,10 @@
 
     await getConstellationCount();
 
-    document.querySelectorAll('button[data-link]').forEach(btn => {
+    document.querySelectorAll('button[data-link]').forEach((btn) => {
       btn.addEventListener('click', (event) => {
-        highlightLink(event.target.innerText)
-      })
+        highlightLink(event.target.innerText);
+      });
     });
 
     locale.subscribe((val) => {
@@ -921,7 +921,12 @@
   <div class="flex flex-col text-white px-4 md:px-8 max-w-screen-2xl">
     <p class="font-black font-display text-2xl mt-4">{$t('characters.passiveTalents')}</p>
     {#each data.passives as passive, i}
-      <PassiveSkillCard {id} image="talent_{i + 4}" data={passive} />
+      <PassiveSkillCard
+        {id}
+        image="talent_{i + 4}"
+        data={passive}
+        order={data.passives.length === 4 && i === 2 ? 3 : undefined}
+      />
     {/each}
   </div>
   <Ad class="mt-2 max-w-screen-2xl flex justify-center" type="desktop" variant="lb" id="3" />
@@ -943,6 +948,10 @@
 </div>
 
 <style lang="postcss">
+  :global(d-item) {
+    display: inline;
+  }
+
   .pill {
     @apply rounded-2xl;
     @apply border-2;
