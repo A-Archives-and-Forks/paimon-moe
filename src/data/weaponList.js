@@ -19668,4 +19668,62 @@ export const weaponList = {
       },
     ],
   },
+  sword_of_narzissenkreuz: {
+    name: 'Sword of Narzissenkreuz',
+    id: 'sword_of_narzissenkreuz',
+    rarity: 4,
+    atk: 42,
+    secondary: 'ATK%',
+    type: weapons.sword,
+    ascension: [
+      {
+        items: [
+          { item: itemList.fragment_of_an_ancient_chord, amount: 3 },
+          { item: itemList.old_operatives_pocket_watch, amount: 3 },
+          { item: itemList.transoceanic_pearl, amount: 2 },
+        ],
+        mora: 5000,
+      },
+      {
+        items: [
+          { item: itemList.chapter_of_an_ancient_chord, amount: 3 },
+          { item: itemList.old_operatives_pocket_watch, amount: 12 },
+          { item: itemList.transoceanic_pearl, amount: 8 },
+        ],
+        mora: 15000,
+      },
+      {
+        items: [
+          { item: itemList.chapter_of_an_ancient_chord, amount: 6 },
+          { item: itemList.operatives_standard_pocket_watch, amount: 6 },
+          { item: itemList.transoceanic_chunk, amount: 6 },
+        ],
+        mora: 20000,
+      },
+      {
+        items: [
+          { item: itemList.movement_of_an_ancient_chord, amount: 3 },
+          { item: itemList.operatives_standard_pocket_watch, amount: 12 },
+          { item: itemList.transoceanic_chunk, amount: 9 },
+        ],
+        mora: 30000,
+      },
+      {
+        items: [
+          { item: itemList.movement_of_an_ancient_chord, amount: 6 },
+          { item: itemList.operatives_constancy, amount: 9 },
+          { item: itemList.xenochromatic_crystal, amount: 6 },
+        ],
+        mora: 35000,
+      },
+      {
+        items: [
+          { item: itemList.echo_of_an_ancient_chord, amount: 4 },
+          { item: itemList.operatives_constancy, amount: 18 },
+          { item: itemList.xenochromatic_crystal, amount: 12 },
+        ],
+        mora: 45000,
+      },
+    ],
+  },
 };
