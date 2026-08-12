@@ -28,10 +28,10 @@
       percentage: '...',
     },
   };
-  const bannerId = 300103;
-  const image = 'columbina raiden.webp';
+  const bannerId = 300104;
+  const image = 'arlecchino odette.webp';
   const width = 800;
-  const height = 309;
+  const height = 415;
 
   let loading = true;
   let user = '';
