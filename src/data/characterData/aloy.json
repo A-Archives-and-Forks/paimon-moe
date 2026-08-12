@@ -480,6 +480,7 @@
       "description": "When Aloy is in the party, animals who produce Fowl, Raw Meat, or Chilled Meat will not be startled when party members approach them."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Prophecies of Dawn",
     "description": "Aloy throws a Power Cell filled with Cryo in the targeted direction, then detonates it with an arrow, dealing <span style=\"color: #99FFFFFF;\">AoE Cryo DMG</span>.\n\n<i>Whether \"Zero Dawn\" referred to hope or extinction no longer matters. Aloy has already saved her world, and the fate of this one is still being forged by its own heroes.</i>",

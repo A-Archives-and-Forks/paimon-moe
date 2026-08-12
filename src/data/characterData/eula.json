@@ -480,6 +480,7 @@
       "description": "When Eula crafts Character Talent Materials, she has a 10% chance to receive double the product."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Glacial Illumination",
     "description": "Brandishes her greatsword, dealing <span style=\"color: #99FFFFFF;\">Cryo DMG</span> to nearby opponents and creating a Lightfall Sword that follows her around for a duration of up to 7s.\nWhile present, the Lightfall Sword increases Eula's resistance to interruption. When Eula's own Normal Attack, Elemental Skill, and Elemental Burst deal DMG to opponents, they will charge the Lightfall Sword, which can gain an energy stack once every 0.1s.\nOnce its duration ends, the Lightfall Sword will descend and explode violently, dealing Physical DMG to nearby opponents.\nThis DMG scales on the number of energy stacks the Lightfall Sword has accumulated.\nIf Eula leaves the field, the Lightfall Sword will explode immediately.\n\n<i>It is easy to sink. But even so, she desires to freeze this oncoming tide.</i>",

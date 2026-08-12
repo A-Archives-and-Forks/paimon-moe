@@ -480,6 +480,7 @@
       "description": "Gains 25% more rewards when dispatched on a Sumeru Expedition for 20 hours."
     }
   ],
+  "links": {},
   "burst": {
     "name": "The Wind's Secret Ways",
     "description": "Faruzan deploys a Dazzling Polyhedron that unleashes a Whirlwind Pulse and deals <span style=\"color: #80FFD7FF;\">AoE Anemo DMG</span>.\nWhile the Dazzling Polyhedron persists, it will continuously move along a triangular path. Once it reaches each corner of that triangular path, it will unleash 1 more Whirlwind Pulse.\n\n<span style=\"color: #FFD780FF;\">Whirlwind Pulse</span>\n·When the Whirlwind Pulse is unleashed, it will apply Perfidious Wind's Bale to nearby opponents, decreasing their <span style=\"color: #80FFD7FF;\">Anemo RES</span>.\n·The Whirlwind Pulse will also apply Prayerful Wind's Benefit to all nearby party members when it is unleashed, granting them an <span style=\"color: #80FFD7FF;\">Anemo DMG Bonus</span>.\n\n<i>One must have respect for the unknown wisdom that one might find hidden in ancient ruins.</i>",

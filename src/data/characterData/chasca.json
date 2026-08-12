@@ -484,6 +484,7 @@
       "description": "25 Phlogiston will be restored when your own party members defeat an opponent. This effect can trigger once every 12s.\nThis has no effect in Domains, Trounce Domains, or the Spiral Abyss."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Soul Reaper's Fatal Round",
     "description": "Chasca concentrates her will, firing a single \"Galesplitting Soulseeker Shell\" that deals Nightsoul-aligned <span style=\"color: #80FFD7FF;\">AoE Anemo DMG</span>. Afterward, the Galesplitting Soulseeker Shell will split into 6 Soulseeker Shells, which attack nearby opponents.\n\n<span style=\"color: #FFD780FF;\">Soulseeker Shells</span>\n·Deal Nightsoul-aligned <span style=\"color: #80FFD7FF;\">Anemo DMG</span>.\n·For each <span style=\"color: #FF9999FF;\">Pyro</span>, <span style=\"color: #80C0FFFF;\">Hydro</span>, <span style=\"color: #99FFFFFF;\">Cryo</span>, or <span style=\"color: #FFACFFFF;\">Electro</span> character in the party, two Soulseeker Shells will undergo corresponding Elemental Conversions to become \"Radiant Soulseeker Shells,\" which deal Nightsoul-aligned Elemental DMG from a randomly selected one of the corresponding Elemental Types.\n\n<i>None can escape from the moonlight or the whispers of the night, just as no foe can flee her attentive eyes once she's got them in her sights.</i>",

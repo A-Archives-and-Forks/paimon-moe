@@ -480,6 +480,7 @@
       "description": "When Hu Tao cooks a dish perfectly, she has an 18% chance to receive an additional \"Suspicious\" dish of the same type."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Spirit Soother",
     "description": "Commands a blazing spirit to attack, dealing <span style=\"color: #FF9999FF;\">Pyro DMG</span> in a large AoE.\nUpon striking the enemy, regenerates a percentage of Hu Tao's Max HP. This effect can be triggered up to 5 times, based on the number of enemies hit.\nIf Hu Tao's HP is below or equal to 50% when the enemy is hit, both the DMG and HP Regeneration are increased.\n\n<i>Supernatural activity by those who have already left this world is a source of great anxiety for the Wangsheng Funeral Parlor. In such cases, cremation always lets Hu Tao find peace of mind. The more anxious she feels, the stronger the flame.</i>",

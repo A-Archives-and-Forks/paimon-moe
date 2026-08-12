@@ -480,6 +480,7 @@
       "description": "Refunds 15% of the ore used when crafting Claymore-type weapons."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Dawn",
     "description": "Releases intense flames to knock back nearby opponents, dealing <span style=\"color: #FF9999FF;\">Pyro DMG</span>. The flames then converge into the weapon, summoning a Phoenix that flies forward and deals massive <span style=\"color: #FF9999FF;\">Pyro DMG</span> to all opponents in its path. The Phoenix explodes upon reaching its destination, causing a large amount of <span style=\"color: #FF9999FF;\">AoE Pyro DMG</span>.\nThe searing flames that run down his blade cause it to be infused with <span style=\"color: #FF9999FF;\">Pyro</span>.\n\n<i>The only reason to walk in the darkness is to light it up. Behold, that fleeing light in the dead of night is the herald of the coming dawn.</i>",

@@ -480,6 +480,7 @@
       "description": "Mora expended when ascending Bows and Catalysts is decreased by 50%."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Kyougen: Five Ceremonial Plays",
     "description": "Compresses the atmosphere into a singular vacuum that grinds all troubles away, dealing multiple instances of <span style=\"color: #80FFD7FF;\">AoE Anemo DMG</span>.\nIf the character is in the Windfavored state due to the skill \"Hanega: Song of the Wind,\" Windfavored state will end after casting.\n\n<i>\"Bright be the narrowed gaze of the sky, casting its sight on dreams both past and present, like radiance washing over dust on the winds.\"</i>",

@@ -480,6 +480,7 @@
       "description": "When dispatched on an expedition in Liyue, time consumed is reduced by 25%."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Starward Sword",
     "description": "Keqing unleashes the power of lightning, dealing <span style=\"color: #FFACFFFF;\">Electro DMG</span> in an AOE.\nShe then blends into the shadow of her blade, striking a series of thunderclap-blows to nearby opponents simultaneously that deal multiple instances of <span style=\"color: #FFACFFFF;\">Electro DMG</span>. The final attack deals massive <span style=\"color: #FFACFFFF;\">AoE Electro DMG</span>.\n\n<i>The swiftest technique in Keqing's personal arsenal is fast enough to bring stars crashing down.</i>",

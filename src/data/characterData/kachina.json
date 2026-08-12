@@ -484,6 +484,7 @@
       "description": "While in an area with Phlogiston Mechanics within Natlan, 20 Stamina will be restored when interacting with some harvestable items. Additionally, the location of nearby <span style=\"color: #FFD780FF;\">resources unique to Natlan</span> will appear on your mini-map."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Time to Get Serious!",
     "description": "Striking the ground, Kachina deals <span style=\"color: #FFE699FF;\">AoE Geo DMG</span> based on her DEF and creates a Turbo Drill Field.\nThe Field increases Turbo Twirly's attack AoE and its Movement SPD when Kachina is riding it.\n\nIf Kachina's own Turbo Twirly is present when this is used, the Turbo Twirly will be summoned to her side.\n\n<i>Just as nervous performers might imagine audience members as wooden puppets, Kachina imagines that her opponents are the loveliest of gem-bearing ores — the kind you'd be proud to bring home and hoard.</i>",

@@ -480,6 +480,7 @@
       "description": "When Ayaka crafts Weapon Ascension Materials, she has a 10% chance to receive double the product."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Kamisato Art: Soumetsu",
     "description": "Summons forth a snowstorm with flawless poise, unleashing a Frostflake Seki no To that moves forward continuously.\n\n<span style=\"color: #FFD780FF;\">Frostflake Seki no To</span>\n·A storm of whirling icy winds that slashes repeatedly at every enemy it touches, dealing <span style=\"color: #99FFFFFF;\">Cryo DMG</span>.\n·The snowstorm explodes after its duration ends, dealing <span style=\"color: #99FFFFFF;\">AoE Cryo DMG</span>.\n\n<i>\"The blizzard veils the heron's thoughts, pity heavy in its heart.\"</i>",

@@ -480,6 +480,7 @@
       "description": "When dispatched on an expedition in Liyue, time consumed is reduced by 25%."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Spirit Blade: Cloud-Parting Star",
     "description": "Performing the secret hand seals, Chongyun summons 3 giant spirit blades in mid-air that fall to the earth one by one after a short delay, exploding as they hit the ground.\nWhen the spirit blades explode, they will deal <span style=\"color: #99FFFFFF;\">AoE Cryo DMG</span> and launch opponents.\n\n<i>\"As ice doth give the biting frost birth, My transcendent blade shakes heaven and earth. Heed my summons and come hence!\"</i>",

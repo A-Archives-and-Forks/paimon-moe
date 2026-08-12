@@ -480,6 +480,7 @@
       "description": "Gains 25% more rewards when dispatched on a Liyue Expedition for 20 hours."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Depth-Clarion Dice",
     "description": "Deals <span style=\"color: #80C0FFFF;\">AoE Hydro DMG</span> and creates an \"Exquisite Throw,\" which aids her in battle.\n\n<span style=\"color: #FFD780FF;\">Exquisite Throw</span>\nFollows the character around and will initiate a coordinated attack under the following circumstances, dealing <span style=\"color: #80C0FFFF;\">Hydro DMG</span> based on Yelan's Max HP:\n·Can occur once every second when your active character uses a Normal Attack.\n·Will occur each time Yelan's Lifeline explodes and hits opponents.\n\n<i>\"A gambling addiction is going to do you no good. I mean, let me just do the math for you as the dealer. What do you think your odds of beating me are, when I have seven dice and you, only one?\"</i>",

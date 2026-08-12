@@ -480,6 +480,7 @@
       "description": "Decreases gliding Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Trump-Card Kitty",
     "description": "Trusty Cuilein-Anbar comes to save the day!\nThrows the doll named Cuilein-Anbar, causing an explosion that deals <span style=\"color: #99FF88FF;\">AoE Dendro DMG</span>, creating a Cuilein-Anbar Zone. Cuilein-Anbar will bounce around within this zone, dealing <span style=\"color: #99FF88FF;\">AoE Dendro DMG</span>.\n\n<i>\"Pretty impressive, huh? ... Eh? You want to know how I came up with the name Cuilein-Anbar? Uh, well, I...\"</i>",

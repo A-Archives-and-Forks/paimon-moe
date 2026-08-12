@@ -480,6 +480,7 @@
       "description": "When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Fantastic Voyage",
     "description": "Bennett performs a jumping attack that deals <span style=\"color: #FF9999FF;\">Pyro DMG</span>, creating an Inspiration Field.\n\n<span style=\"color: #FFD780FF;\">Inspiration Field</span>\n·If the health of a character within the AoE is equal to or falls below 70%, their health will continuously regenerate. The amount of HP restored scales off Bennett's Max HP.\n·If the health of a character within the AoE is higher than 70%, they gain an ATK Bonus that is based on Bennett's Base ATK.\n·Imbues characters within the AoE with <span style=\"color: #FF9999FF;\">Pyro</span>.\n\n<i>Benny's Adventure Team's adventures are always fraught with unexpected danger. However, Bennett is more inclined to call them \"journeys full of wonder, excitement, and beauty.\"</i>",

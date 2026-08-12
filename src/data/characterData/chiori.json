@@ -480,6 +480,7 @@
       "description": "When any party member is wearing an outfit apart from their default outfit, or is wearing a wind glider other than the Wings of First Flight, your party members will obtain the Swift Stride effect: Movement SPD is increased by 10%.\nThis effect does not take effect in Domains, Trounce Domains, and the Spiral Abyss. Swift Stride does not stack."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Hiyoku: Twin Blades",
     "description": "Twin blades leave their sheaths as Chiori slices with the clean cuts of a master tailor, dealing <span style=\"color: #FFE699FF;\">AoE Geo DMG</span> based on her ATK and DEF.\n\n<i>\"Master one principle, and the path to all others shall open to you.\"</i>",

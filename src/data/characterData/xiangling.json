@@ -480,6 +480,7 @@
       "description": "When Xiangling cooks an ATK-boosting dish perfectly, she has a 12% chance to receive double the product."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Pyronado",
     "description": "Displaying her mastery over both fire and polearms, Xiangling sends a Pyronado whirling around her.\nThe Pyronado will move with your character for the ability's duration, dealing <span style=\"color: #FF9999FF;\">Pyro DMG</span> to all opponents in its path.\n\n<i>There will never be enough heat. Never.</i>",

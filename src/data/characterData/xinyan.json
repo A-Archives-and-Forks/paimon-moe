@@ -480,6 +480,7 @@
       "description": "When a Perfect Cooking is achieved on a DEF-boosting dish, Xinyan has a 12% chance to obtain double the product."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Riff Revolution",
     "description": "Strumming rapidly, Xinyan launches nearby opponents and deals Physical DMG to them, hyping up the crowd.\nThe sheer intensity of the atmosphere will cause explosions that deal <span style=\"color: #FF9999FF;\">Pyro DMG</span> to nearby opponents.\n\n<i>Xinyan used to end all her performances with this move. She didn't stop because it was dangerous, however, but because she didn't have a more epic finale in case someone shouted \"Encore!\"</i>",

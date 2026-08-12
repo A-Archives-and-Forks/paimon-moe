@@ -480,6 +480,7 @@
       "description": "When you <span style=\"color: #FFD780FF;\">fish</span> successfully in Inazuma, Thoma's help grants a 20% chance of scoring a double catch."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Crimson Ooyoroi",
     "description": "Thoma spins his polearm, slicing at his foes with roaring flames that deal <span style=\"color: #FF9999FF;\">AoE Pyro DMG</span> and weave themselves into a Scorching Ooyoroi.\n\n<span style=\"color: #FFD780FF;\">Scorching Ooyoroi</span>\nWhile Scorching Ooyoroi is in effect, the active character's Normal Attacks will trigger Fiery Collapse, dealing <span style=\"color: #FF9999FF;\">AoE Pyro DMG</span> and summoning a Blazing Barrier.\nFiery Collapse can be triggered once every 1s.\n\nExcept for the amount of DMG they can absorb, the Blazing Barriers created in this way are identical to those created by Thoma's Elemental Skill, Blazing Blessing:\n·Absorbs <span style=\"color: #FF9999FF;\">Pyro DMG</span> 250% more effectively.\n·When a new Blazing Barrier is obtained, the remaining DMG Absorption of an existing Blazing Barrier will stack and its duration will be refreshed.\n\nThe maximum DMG Absorption of the Blazing Barrier will not exceed a certain percentage of Thoma's Max HP.\n\nIf Thoma falls, the effects of Scorching Ooyoroi will be cleared.\n\n<i>\"I will not forget my initial promise. Let this burning flame protect those I cherish, and may it never be extinguished.\"</i>",

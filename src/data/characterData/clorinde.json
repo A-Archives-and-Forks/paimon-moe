@@ -480,6 +480,7 @@
       "description": "Displays the location of nearby <span style=\"color: #FFD780FF;\">resources unique to Fontaine</span> on the mini-map."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Last Lightfall",
     "description": "Grants herself a Bond of Life based upon her own max HP before swiftly evading and striking with saber and sidearm as one, dealing <span style=\"color: #FFACFFFF;\">AoE Electro DMG</span>.\n\n<i>It is said the legacy of the ancient art of resisting non-human beings with but a mortal body can be traced back to the Lochknights who resisted the Remurian Empire.\nBe that as it may, so long as one can find a way to control the level of force used, it's not as if it cannot be used in duels against ordinary opponents.</i>",

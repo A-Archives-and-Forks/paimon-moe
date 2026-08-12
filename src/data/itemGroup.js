@@ -406,9 +406,15 @@ export const itemGroup = {
     items: [itemList.teachings_of_elysium, itemList.guide_to_elysium, itemList.philosophies_of_elysium],
     type: 'book',
   },
-  shard_of_a_shattered_will: {
-    name: 'Will',
-    items: [itemList.shard_of_a_shattered_will, itemList.locus_of_a_clear_will, itemList.sigil_of_a_striding_will],
+  teachings_of_charity: {
+    name: 'Charity',
+    items: [itemList.teachings_of_charity, itemList.guide_to_charity, itemList.philosophies_of_charity],
+    type: 'book',
+  },
+  teachings_of_fortitude: {
+    name: 'Fortitude',
+    items: [itemList.teachings_of_fortitude, itemList.guide_to_fortitude, itemList.philosophies_of_fortitude],
+    type: 'book',
   },
   shard_of_a_shattered_will: {
     name: 'Will',

@@ -455,7 +455,7 @@
     },
     {
       "name": "Skiving: New and Improved",
-      "description": "Sayu recovers 1.2 Energy when she triggers a Swirl reaction.\nThis effect occurs once every 2s."
+      "description": "Sayu recovers 1.2 Energy when she triggers a Swirl or Stellar Swirl reaction while on-field.\nThis effect occurs once every 2s."
     },
     {
       "name": "Speed Comes First",
@@ -469,7 +469,7 @@
   "passives": [
     {
       "name": "Someone More Capable",
-      "description": "When Sayu triggers a Swirl reaction while active, she heals all your characters and nearby allies for 300 HP. She will also heal an additional 1.2 HP for every point of Elemental Mastery she has.\nThis effect can be triggered once every 2s."
+      "description": "When Sayu triggers a Swirl or Stellar Swirl reaction while active, she heals all your characters and nearby allies for 300 HP. She will also heal an additional 1.2 HP for every point of Elemental Mastery she has.\nThis effect can be triggered once every 2s."
     },
     {
       "name": "No Work Today!",
@@ -480,6 +480,7 @@
       "description": "When Sayu is in the party, your characters will not startle Crystalflies and certain other animals when getting near them.\nCheck the \"Other\" sub-category of the \"Living Beings / Wildlife\" section in the Archive for creatures this skill works on."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Yoohoo Art: Mujina Flurry",
     "description": "The other super special technique of the Yoohoo Ninja Arts! It summons a pair of helping hands for Sayu.\nDeals <span style=\"color: #80FFD7FF;\">Anemo DMG</span> to nearby opponents and heals all nearby party members. The amount of HP restored is based on Sayu's ATK. This skill then summons a Muji-Muji Daruma.\n\n<span style=\"color: #FFD780FF;\">Muji-Muji Daruma</span>\nAt specific intervals, the Daruma will take one of several actions based on the situation around it:\n·If the HP of nearby characters is above 70%, it will attack a nearby opponent, dealing <span style=\"color: #80FFD7FF;\">Anemo DMG</span>.\n·If there are active characters with 70% or less HP nearby, it will heal the active character with the lowest percentage HP left. If there are no opponents nearby, it will heal active characters nearby even if they have 70% HP or more.\n\n<i>People who don't know the first thing about ninjutsu love to watch Sayu show off this skill, and some have tried to learn it from her. But Sayu just wants to sleep and not be disturbed.</i>",

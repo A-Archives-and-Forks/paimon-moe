@@ -480,6 +480,7 @@
       "description": "Decreases climbing Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Sacred Rite: Wagtail's Tide",
     "description": "Raising her weapon on high, Candace calls upon a divine blessing that deals <span style=\"color: #80C0FFFF;\">AoE Hydro DMG</span> based on her Max HP and continuously confers the Prayer of the Crimson Crown on your active character.\n\n<span style=\"color: #FFD780FF;\">Prayer of the Crimson Crown</span>\nThis effect has the following properties:\n·Characters deal increased Elemental DMG with their Normal Attacks.\n·Whenever a character takes the field, they will unleash a rippling wave of water that deals <span style=\"color: #80C0FFFF;\">Hydro DMG</span> to nearby opponents. There is a limited number of waves that can be triggered in the duration of this skill.\n·Sword, Claymore, and Polearm-wielding characters under this effect will obtain a <span style=\"color: #80C0FFFF;\">Hydro Infusion</span>.\n\n<i>This secret rite has been passed down through Candace's clan from generation to generation. Though the old faiths have become lost over the years, the sands still protect the heirs of the ancient realm.</i>",

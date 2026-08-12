@@ -480,6 +480,7 @@
       "description": "Increases underwater Sprint SPD for your own party members by 15%.\nNot stackable with Passive Talents that provide the exact same effects."
     }
   ],
+  "links": {},
   "burst": {
     "name": "O Tides, I Have Returned",
     "description": "Unleashes waves that will deal <span style=\"color: #80C0FFFF;\">AoE Hydro DMG</span> based on Neuvillette's Max HP. After a short interval, 2 waterfalls will descend and deal <span style=\"color: #80C0FFFF;\">Hydro DMG</span> in a somewhat smaller AoE, and will generate 6 Sourcewater Droplets within an area in front.\n\n<i>\"The law is only established after its publication, and above that, the laws of nature have governed all species and eras since ancient times.</i>",

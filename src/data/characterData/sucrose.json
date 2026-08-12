@@ -470,7 +470,7 @@
   "passives": [
     {
       "name": "Catalyst Conversion",
-      "description": "When Sucrose triggers a Swirl reaction, all characters in the party with the matching element (excluding Sucrose) have their Elemental Mastery increased by 50 for 8s."
+      "description": "When Sucrose triggers a Swirl or Stellar Swirl reaction, all characters in the party with the matching element (excluding Sucrose) have their Elemental Mastery increased by 50 for 8s."
     },
     {
       "name": "Mollis Favonius",
@@ -485,6 +485,7 @@
       "description": "After completing <span style=\"color: #FFD780FF;\">Witch's Homework: Of Wonderland Flowers</span>, Sucrose will become a <span style=\"color: #FFD780FF;\">Hexerei</span> character. When the party includes at least 2 Hexerei characters, you will gain the <span style=\"color: #FFD780FF;\">Hexerei: Secret Rite</span> effect, which enhances Hexerei characters.\n\n<span style=\"color: #FFD780FF;\">Hexerei: Secret Rite</span>\n· After Sucrose creates a Small Wind Spirit, nearby party members' Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, and Elemental Burst DMG are increased by 5.71428% for 15s.\n· After Sucrose creates a Large Wind Spirit, nearby Hexerei party members' Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, and Elemental Burst DMG are increased by 7.14285% for 20s."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Forbidden Creation - Isomer 75 / Type II",
     "description": "Sucrose hurls an unstable concoction that creates a Large Wind Spirit.\nWhile it persists, the Large Wind Spirit will continuously pull in surrounding opponents and objects, launch nearby opponents, and deal <span style=\"color: #80FFD7FF;\">Anemo DMG</span>.\n\n<span style=\"color: #FFD780FF;\">Elemental Absorption</span>\nIf the Wind Spirit comes into contact with <span style=\"color: #80C0FFFF;\">Hydro</span>/<span style=\"color: #FF9999FF;\">Pyro</span>/<span style=\"color: #99FFFFFF;\">Cryo</span>/<span style=\"color: #FFACFFFF;\">Electro</span> energy, it will deal additional elemental DMG of that type.\nElemental Absorption may only occur once per use.\n\n<i>Sucrose used to give names to her volatile Anemo Hypostases, but their line of heirs quickly grew to surpass Baron Bunny the 893rd.</i>",

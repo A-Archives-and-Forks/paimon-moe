@@ -484,6 +484,7 @@
       "description": "Increases gliding SPD for your own party members by 15%.\nNot stackable with Passive Talents that provide the exact same effects."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Dark Voices Echo",
     "description": "Ororon works an ancient ritual, dealing Nightsoul-aligned <span style=\"color: #FFACFFFF;\">AoE Electro DMG</span>, summoning forth a Supersonic Oculus.\n\n<span style=\"color: #FFD780FF;\">Supersonic Oculus</span>\n·Continuously taunts nearby opponents and attracts attacks from them.\n·Continuously rotates and fires off sonic waves that deal Nightsoul-aligned <span style=\"color: #FFACFFFF;\">Electro DMG</span>.\n\n<i>Those with sharp enough senses can hear the minute voices with which all things speak. That way, they will never lose their way — not even on long, lightless nights.</i>",

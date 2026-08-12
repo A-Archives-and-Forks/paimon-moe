@@ -480,6 +480,7 @@
       "description": "Refunds 15% of the ore used when crafting Polearm-type weapons."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Planet Befall",
     "description": "Brings a falling meteor down to earth, dealing massive <span style=\"color: #FFE699FF;\">Geo DMG</span> to opponents caught in its AoE and applying the <span style=\"color: #FFE699FF;\">Petrification</span> status to them.\n\n<span style=\"color: #FFD780FF;\">Petrification</span>\nOpponents affected by the <span style=\"color: #FFE699FF;\">Petrification</span> status cannot move.\n\n<i>The falling meteor punishes the unjust.</i>",

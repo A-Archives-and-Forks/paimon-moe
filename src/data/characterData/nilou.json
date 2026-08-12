@@ -480,6 +480,7 @@
       "description": "When Perfect Cooking is achieved on Food with Adventure-related effects, there is a 12% chance to obtain double the product."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Dance of Abzendegi: Distant Dreams, Listening Spring",
     "description": "Begins the dance of faraway dreams and springs that hear, causing a Lotus of Distant Waters to bloom, dealing <span style=\"color: #80C0FFFF;\">AoE Hydro DMG</span> based on Nilou's Max HP and applying the Lingering Aeon effect to all opponents hit.\nAfter an interval, opponents affected by Lingering Aeon will take <span style=\"color: #80C0FFFF;\">Hydro DMG</span>.\n\n<i>\"We have never witnessed that distant dream, but this dance can bring it to life.\"</i>",

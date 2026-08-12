@@ -480,6 +480,7 @@
       "description": "When a Perfect Cooking is achieved on a DEF-boosting dish, Noelle has a 12% chance to obtain double the product."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Sweeping Time",
     "description": "Gathering the strength of stone around her weapon, Noelle strikes the opponents surrounding her within a large AoE, dealing <span style=\"color: #FFE699FF;\">Geo DMG</span>.\nAfterwards, Noelle gains the following effects:\n·Larger attack AoE.\n·Converts attack DMG to <span style=\"color: #FFE699FF;\">Geo DMG</span> that cannot be overridden by any other elemental infusion.\n·Increased ATK that scales based on her DEF.\n\n<i>Sometimes, it's not just dust that needs sweeping...</i>",

@@ -469,7 +469,7 @@
   "passives": [
     {
       "name": "Paradoxical Practice",
-      "description": "When Shikanoin Heizou activates a Swirl reaction while on the field, he will gain 1 Declension stack for <span style=\"color: #FFD780FF;\">Heartstopper Strike</span>. This effect can be triggered once every 0.1s."
+      "description": "When Shikanoin Heizou activates a Swirl or Stellar Swirl reaction while on the field, he will gain 1 Declension stack for <span style=\"color: #FFD780FF;\">Heartstopper Strike</span>. This effect can be triggered once every 0.1s."
     },
     {
       "name": "Penetrative Reasoning",
@@ -480,6 +480,7 @@
       "description": "Decreases sprinting Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Windmuster Kick",
     "description": "Leaps into the air and uses the Fudou Style Vacuum Slugger and kicks his opponent. The Vacuum Slugger will explode upon hit and create an Arresting Windtunnel that pulls in nearby objects and opponents, dealing <span style=\"color: #80FFD7FF;\">AoE Anemo DMG</span>.\nWhen Vacuum Slugger hits opponents affected by <span style=\"color: #80C0FFFF;\">Hydro</span>/<span style=\"color: #FF9999FF;\">Pyro</span>/<span style=\"color: #99FFFFFF;\">Cryo</span>/<span style=\"color: #FFACFFFF;\">Electro</span>, these opponents will be afflicted with Windmuster Iris. This Windmuster Iris will explode after a moment and dissipate, dealing AoE DMG of the corresponding aforementioned elemental type.\nVacuum Slugger can afflict a maximum of 4 opponents with the Windmuster Iris. A single opponent cannot be under the effect of Windmuster Irises of different elements at the same time.\n\n<i>A unique technique that gathers Anemo in one place before unleashing it all in one kick. Is always there in a pinch to land on some criminal's fleeing back.</i>",

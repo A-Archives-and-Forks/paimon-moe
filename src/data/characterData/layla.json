@@ -480,6 +480,7 @@
       "description": "When Layla crafts Character Talent Materials, she has a 10% chance to receive double the product."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Dream of the Star-Stream Shaker",
     "description": "Unleashes a Celestial Dreamsphere that constantly fires Starlight Slugs at opponents within its AoE, dealing <span style=\"color: #99FFFFFF;\">Cryo DMG</span>.\nWhen a Starlight Slug hits, it will generate 1 Night Star for nearby Curtains of Slumber. Each Curtain of Slumber can gain 1 Night Star this way every 0.5s.\n\n<i>\"Sleep now, sleep now; and may many destinies be revealed before your slumbering eyes, within your star-paved dreams.\"</i>",

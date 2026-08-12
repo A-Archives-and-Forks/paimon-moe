@@ -484,6 +484,7 @@
       "description": "While in an area with Phlogiston Mechanics within Natlan, interacting with some harvestable items will increase your own party members' Movement SPD by 15% for 10s. Additionally, the location of nearby <span style=\"color: #FFD780FF;\">resources unique to Natlan</span> will appear on your mini-map."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Hail to the Almighty Dragonlord",
     "description": "Unleashes the power of the Almighty Dragonlord, K'uhul Ajaw (on a limited, conditional, restricted, contractual, partial, temporary basis), dealing Nightsoul-aligned <span style=\"color: #99FF88FF;\">AoE Dendro DMG</span>. Ajaw will unleash his Dragon Breath at intervals, dealing Nightsoul-aligned <span style=\"color: #99FF88FF;\">AoE Dendro DMG</span>.\nIf Kinich is in Nightsoul's Blessing when this is used, this Blessing's duration is extended by 1.7s.\n\n<i>\"Yes, yes! You stand before K'uhul Ajaw the Almighty Dragonlord! Come forward, then! Kneel, and kiss our feet!\"</i>",

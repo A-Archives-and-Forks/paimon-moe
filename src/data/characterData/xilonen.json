@@ -484,6 +484,7 @@
       "description": "Triggering Nightsoul Transmission restores 15 Phlogiston."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Ocelotlicue Point!",
     "description": "Activates the Phlogiston Stereo DJ Controller (Portable) at full power, dealing Nightsoul-aligned <span style=\"color: #FFE699FF;\">AoE Geo DMG</span> based on Xilonen's DEF.\n\nAdditionally, she will trigger the following effects based on her different Source Samples:\n·If she has at least 2 Source Samples that have had their Elemental Types changed, Xilonen will play an Ebullient rhythm, healing nearby active characters at intervals based on her DEF.\n·If she has fewer than 2 Source Samples that have had their Elemental Types changed, Xilonen will start up an Ardent rhythm, which will play two additional beats that deal Nightsoul-aligned <span style=\"color: #FFE699FF;\">AoE Geo DMG</span> based on her DEF.\n\n<i>\"Alright, time for a time-out!\"\n\"It's cool, I recorded those beats just now. Let's see what we get when we mix our rhythms!\"</i>",

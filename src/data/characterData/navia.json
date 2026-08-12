@@ -480,6 +480,7 @@
       "description": "Gains 25% more rewards when dispatched on a Fontaine Expedition for 20 hours."
     }
   ],
+  "links": {},
   "burst": {
     "name": "As the Sunlit Sky's Singing Salute",
     "description": "On the orders of the President of the Spina di Rosula, call for a magnificent Rosula Dorata Salute. Unleashes a massive cannon bombardment on opponents in front of her, dealing <span style=\"color: #FFE699FF;\">AoE Geo DMG</span> and providing Cannon Fire Support for a duration afterward, periodically dealing <span style=\"color: #FFE699FF;\">Geo DMG</span> to nearby opponents.\nWhen cannon attacks hit opponents, Navia will gain 1 stack of Crystal Shrapnel. This effect can be triggered up to once every 2.4s.\n\n<i>\"The Spina di Rosula's salute is a preemptive celebration of the successful conclusion of our negotiations and is fired just before talks begin. Don't misunderstand, it isn't in any way, shape, or form some kind of threat.\"</i>",

@@ -480,6 +480,7 @@
       "description": "Displays the location of nearby <span style=\"color: #FFD780FF;\">resources unique to Liyue</span> on the mini-map."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Done Deal",
     "description": "Triggers a spray of intense flames that rush at nearby opponents, dealing <span style=\"color: #FF9999FF;\">AoE Pyro DMG</span>, granting Yanfei the maximum number of Scarlet Seals, and applying Brilliance to her.\n\n<span style=\"color: #FFD780FF;\">Brilliance</span>\nHas the following effects:\n·Grants Yanfei a Scarlet Seal at fixed intervals.\n·Increases the DMG dealt by her Charged Attacks.\nThe effects of Brilliance will end if Yanfei leaves the field or falls in battle.\n\n<i>\"Here are the full terms for this matter of life and death — by which I mean my life and your death!\"</i>",

@@ -480,6 +480,7 @@
       "description": "When Yoimiya crafts Decoration, Ornament, and Landscape-type Furnishings, she has a 100% chance to refund a portion of the materials used."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Ryuukin Saxifrage",
     "description": "Yoimiya leaps into the air along with her original creation, the \"Ryuukin Saxifrage,\" and fires forth blazing rockets bursting with surprises that deal <span style=\"color: #FF9999FF;\">AoE Pyro DMG</span> and mark one of the hit opponents with Aurous Blaze.\n\n<span style=\"color: #FFD780FF;\">Aurous Blaze</span>\nAll Normal/Charged/Plunging Attacks, Elemental Skills, and Elemental Bursts by any party member other than Yoimiya that hit an opponent marked by Aurous Blaze will trigger an explosion, dealing <span style=\"color: #FF9999FF;\">AoE Pyro DMG</span>.\nWhen an opponent affected by Aurous Blaze is defeated before its duration expires, the effect will pass on to another nearby opponent, who will inherit the remaining duration.\n\nOne Aurous Blaze explosion can be triggered every 2s. When Yoimiya is down, Aurous Blaze effects created through her skills will be deactivated.\n\n<i>Fireworks are man-made starlight, comets fired into the sky. Though they last for but an instant, the memory of their brilliance shall surely live on.</i>",

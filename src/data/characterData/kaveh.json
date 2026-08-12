@@ -480,6 +480,7 @@
       "description": "When Kaveh crafts Landscape, Building, and Courtyard-type Furnishings, he has a 100% chance to refund a portion of the materials used."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Painted Dome",
     "description": "Completely unleashes Mehrak's energy and creates a cubic scanned space, dealing <span style=\"color: #99FF88FF;\">AoE Dendro DMG</span> to all opponents within it, causing all Dendro Cores in its AoE to immediately burst, and granting Kaveh the following enhanced combat abilities for a specific duration:\n· Increases Kaveh's Normal, Charged, and Plunging Attack AoE, and converts his attack DMG to <span style=\"color: #99FF88FF;\">Dendro DMG</span> that cannot be overridden.\n· All Dendro Cores created by all your own party members through Bloom and Lunar-Bloom reactions will deal additional DMG when they burst.\n· Increases Kaveh's resistance to interruption.\nThese effects will be canceled once Kaveh leaves the field.\n\n<i>\"Every building style includes the architect's unique worldview, and from this angle, one can say that the buildings themselves are coalescences of human memories.\"</i>",

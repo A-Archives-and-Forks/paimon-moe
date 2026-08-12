@@ -2172,4 +2172,93 @@ export const itemList = {
     name: 'Unblemished Lunar Iron',
     rarity: 4,
   },
+  flockingweed: {
+    id: 'flockingweed',
+    name: 'Flockingweed',
+  },
+  symbiotic_chimeric_nucleus: {
+    id: 'symbiotic_chimeric_nucleus',
+    name: 'Symbiotic Chimeric Nucleus',
+    rarity: 2,
+  },
+  prime_chimeric_nexus: {
+    id: 'prime_chimeric_nexus',
+    name: 'Prime Chimeric Nexus',
+    rarity: 3,
+  },
+  chimeric_core: {
+    id: 'chimeric_core',
+    name: 'Chimeric Core',
+    rarity: 1,
+  },
+  frostfairy_flower: {
+    id: 'frostfairy_flower',
+    name: 'Frostfairy Flower',
+  },
+  severed_tail_of_the_sky_roamer: {
+    id: 'severed_tail_of_the_sky_roamer',
+    name: 'Severed Tail of the Sky-Roamer',
+    rarity: 4,
+  },
+  unscorched_blossom_branch: {
+    id: 'unscorched_blossom_branch',
+    name: 'Unscorched Blossom Branch',
+    rarity: 4,
+  },
+  ethereal_crystal: {
+    id: 'ethereal_crystal',
+    name: 'Ethereal Crystal',
+    rarity: 2,
+  },
+  ethereal_crystalscale_stone: {
+    id: 'ethereal_crystalscale_stone',
+    name: 'Ethereal Crystalscale Stone',
+    rarity: 3,
+  },
+  ethereal_glimmershard: {
+    id: 'ethereal_glimmershard',
+    name: 'Ethereal Glimmershard',
+    rarity: 1,
+  },
+  twisted_withered_branch: { id: 'twisted_withered_branch', name: 'Twisted Withered Branch' },
+  teachings_of_charity: {
+    id: 'teachings_of_charity',
+    name: 'Teachings of Charity',
+    day: ['monday', 'thursday'],
+    rarity: 2,
+  },
+  guide_to_charity: {
+    id: 'guide_to_charity',
+    name: 'Guide to Charity',
+    day: ['monday', 'thursday'],
+    rarity: 3,
+    parent: 'teachings_of_charity',
+  },
+  philosophies_of_charity: {
+    id: 'philosophies_of_charity',
+    name: 'Philosophies of Charity',
+    day: ['monday', 'thursday'],
+    rarity: 4,
+    parent: 'teachings_of_charity',
+  },
+  teachings_of_fortitude: {
+    id: 'teachings_of_fortitude',
+    name: 'Teachings of Fortitude',
+    day: ['tuesday', 'friday'],
+    rarity: 2,
+  },
+  guide_to_fortitude: {
+    id: 'guide_to_fortitude',
+    name: 'Guide to Fortitude',
+    day: ['tuesday', 'friday'],
+    rarity: 3,
+    parent: 'teachings_of_fortitude',
+  },
+  philosophies_of_fortitude: {
+    id: 'philosophies_of_fortitude',
+    name: 'Philosophies of Fortitude',
+    day: ['tuesday', 'friday'],
+    rarity: 4,
+    parent: 'teachings_of_fortitude',
+  },
 };

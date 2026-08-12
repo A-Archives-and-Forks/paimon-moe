@@ -484,6 +484,7 @@
       "description": "While in an area with Phlogiston Mechanics within Natlan, 15 Phlogiston will be restored when interacting with some harvestable items. Additionally, the location of nearby <span style=\"color: #FFD780FF;\">resources unique to Natlan</span> will appear on your mini-map."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Boomsharka-laka",
     "description": "Fires a Super Shark Missile that can track opponents, dealing Nightsoul-aligned <span style=\"color: #80C0FFFF;\">AoE Hydro DMG</span> based on Mualani's Max HP.\n\n<i>Mualani picked this moniker for launching her Shark Missile because it combines the warmth of explosive passion with a more chill, laid-back vibe — most hot spring-ish.</i>",

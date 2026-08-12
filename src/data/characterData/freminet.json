@@ -480,6 +480,7 @@
       "description": "Decreases Aquatic Stamina consumption for your own party members by 35%.\nNot stackable with Passive Talents that provide the exact same effects."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Shadowhunter's Ambush",
     "description": "Unleashes a wave of untouchable cold, dealing <span style=\"color: #99FFFFFF;\">AoE Cryo DMG</span>, resetting the CD of the Elemental Skill \"Pressurized Floe,\" and causing Freminet to enter the Subnautical Hunter mode for 10s.\n\nWhile in Subnautical Hunter mode, Freminet's resistance to interruption will increase, and his Elemental Skill \"Pressurized Floe\" will obtain the following buffs:\n·CD is decreased by 70%.\n·Normal Attacks will increase the Pers Timer by 1 additional Pressure Level, and the frost released by his Normal Attacks deal 200% of their original DMG.\n\nThese effects will be canceled when Freminet leaves the field.\n\n<i>\"Now... I have no need of any extraneous noise.\"</i>",

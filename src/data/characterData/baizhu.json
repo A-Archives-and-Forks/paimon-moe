@@ -480,6 +480,7 @@
       "description": "When Baizhu is in the party, interacting with certain harvestable items will heal your current active character for 2.5% of Baizhu's Max HP."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Holistic Revivification",
     "description": "Enters the Pulsing Clarity state, creating a Seamless Shield that absorbs <span style=\"color: #99FF88FF;\">Dendro DMG</span> with 250% effectiveness.\nWhile in this state, Baizhu will generate a new Seamless Shield every 2.5s.\n\nThe Seamless Shield will heal your own active character based on Baizhu's Max HP and attack opponents by unleashing Spiritveins, dealing <span style=\"color: #99FF88FF;\">Dendro DMG</span> under the following circumstances:\n·When a character is under the protection of a Seamless Shield and a new Seamless Shield is generated.\n·When the Seamless Shield's effects expire, or when it is shattered.\n\n<i>If you can perceive the heavens and the earth, defend against malignant auras with the flow of qi, and keep your mind clear, surely nothing can hinder you.</i>",

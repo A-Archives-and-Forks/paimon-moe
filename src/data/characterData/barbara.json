@@ -480,6 +480,7 @@
       "description": "When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Shining Miracle♪",
     "description": "Heals your own party members and nearby teammates for a large amount of HP that scales with Barbara's Max HP.\n\n<i>Barbara's desire to heal strengthens her will to fight and sing.</i>",

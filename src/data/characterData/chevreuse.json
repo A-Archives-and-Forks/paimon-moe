@@ -480,6 +480,7 @@
       "description": "Decreases sprinting Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Ring of Bursting Grenades",
     "description": "Chevreuse fires an explosive grenade at opponents with her musket, dealing <span style=\"color: #FF9999FF;\">AoE Pyro DMG.</span> After the projectile hits, it will split into many secondary explosive shells.\nThe secondary explosive shells will burst after a short interval, dealing <span style=\"color: #FF9999FF;\">Pyro DMG</span> to nearby opponents.\n\n<i>\"Theoretically, a rectangular blast would be most efficient at destroying enemy formations. Unfortunately, the cross-section of an explosive shock wave is round, like most cakes. So, the secondary explosive shells can only be arranged like the fruit on a cake, forming a ring around the edge.\"</i>",

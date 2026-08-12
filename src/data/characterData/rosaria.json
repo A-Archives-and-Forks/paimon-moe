@@ -480,6 +480,7 @@
       "description": "At night (18:00 – 06:00), your party members gain the Swift Stride effect: Movement SPD increased by 10%.\nDoes not take effect in Domains, Trounce Domains, or Spiral Abyss. Swift Stride does not stack."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Rites of Termination",
     "description": "Rosaria's unique take on this prayer ritual: First, she swings her weapon to slash surrounding opponents; then, she summons a frigid Ice Lance that strikes the ground. Both actions deal <span style=\"color: #99FFFFFF;\">Cryo DMG</span>.\nWhile active, the Ice Lance periodically releases a blast of cold air, dealing <span style=\"color: #99FFFFFF;\">Cryo DMG</span> to surrounding opponents.\n\n<i>Judgment is such a tedious ordeal — much easier to skip that phase and get straight to the last rites. Rosaria was never very devoted to the Anemo God anyway, which makes performing them all too easy.</i>",

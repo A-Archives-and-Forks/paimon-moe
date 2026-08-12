@@ -480,6 +480,7 @@
       "description": "When Lisa crafts a potion, she has a 20% chance to refund a portion of the crafting materials used."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Lightning Rose",
     "description": "Summons a Lightning Rose that unleashes powerful lightning bolts, launching surrounding opponents and dealing <span style=\"color: #FFACFFFF;\">Electro DMG</span>.\nThe Lightning Rose will continuously emit lightning to knock back opponents and deal <span style=\"color: #FFACFFFF;\">Electro DMG</span> throughout the ability's duration.\n\n<i>This rose is beautiful, but beware its mortal thorns.</i>",

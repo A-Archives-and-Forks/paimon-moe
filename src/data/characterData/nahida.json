@@ -480,6 +480,7 @@
       "description": "Nahida can use <span style=\"color: #FFD780FF;\">All Schemes to Know</span> to interact with some harvestable items within a fixed AoE.\nThis skill may even have some other effects..."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Illusory Heart",
     "description": "Manifests the Court of Dreams and expands the Shrine of Maya.\n\nWhen the Shrine of Maya field is unleashed, the following effects will be separately unleashed based on the Elemental Types present within the party.\n·<span style=\"color: #FF9999FF;\">Pyro</span>: While Nahida remains within the Shrine of Maya, the DMG dealt by Tri-Karma Purification from \"All Schemes to Know\" is increased.\n·<span style=\"color: #FFACFFFF;\">Electro</span>: While Nahida remains within the Shrine of Maya, the interval between each Tri-Karma Purification from \"All Schemes to Know\" is decreased.\n·<span style=\"color: #80C0FFFF;\">Hydro</span>: The Shrine of Maya's duration is increased.\n\nIf there are at least 2 party members of the aforementioned Elemental Types present when the field is deployed, the aforementioned effects will be increased further.\n\nEven if Nahida is not on the field, these bonuses will still take effect so long as party members are within the Shrine of Maya.\n\n<i>Perhaps all that dwell under the bowers of trees are naught but a fleeting upside-down dream in the eyes of the God of Wisdom.</i>",

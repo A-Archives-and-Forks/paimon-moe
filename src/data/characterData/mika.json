@@ -480,6 +480,7 @@
       "description": "Displays the location of nearby <span style=\"color: #FFD780FF;\">resources unique to Mondstadt</span> on the mini-map."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Skyfeather Song",
     "description": "Derives the ability to spur his teammates on from the recited prayers of the knightly order, regenerating HP for all nearby party members. This healing is based on Mika's Max HP and will grant them the Eagleplume state.\n\n<span style=\"color: #FFD780FF;\">Eagleplume</span>\nWhen the Normal Attacks of active characters affected by Eagleplume hit an opponent, Mika will help them regenerate HP based on his Max HP.\nCharacters affected by this state can only regenerate HP in this way once per short interval of time.\n\n<i>\"Carry hope when in dire straits, and keep vigil when all is well... For that pure white plume shall at last guide the lost wayfarers.\"</i>",

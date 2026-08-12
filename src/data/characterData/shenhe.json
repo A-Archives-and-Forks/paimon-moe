@@ -480,6 +480,7 @@
       "description": "Gains 25% more rewards when dispatched on a Liyue Expedition for 20 hours."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Divine Maiden's Deliverance",
     "description": "Unleashes the power of the Talisman Spirit, allowing it to roam free in this plane, dealing <span style=\"color: #99FFFFFF;\">AoE Cryo DMG</span>.\nThe Talisman Spirit then creates a field that decreases the <span style=\"color: #99FFFFFF;\">Cryo RES</span> and Physical RES of opponents within it. It also deals periodic <span style=\"color: #99FFFFFF;\">Cryo DMG</span> to opponents within the field.\n\n<i>The way of the adepti is not defined only by the mysterious and fantastical. Only by observing the changes in the heavens and the earth, and understanding the laws of cause and effect in this realm, may its essence be understood.</i>",

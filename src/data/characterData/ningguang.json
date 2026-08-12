@@ -480,6 +480,7 @@
       "description": "Displays the location of nearby <span style=\"color: #FFD780FF;\">ore veins used in forging</span> on the mini-map."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Starshatter",
     "description": "Gathering a great number of gems, Ningguang scatters them all at once, sending homing projectiles at her opponents that deal massive <span style=\"color: #FFE699FF;\">Geo DMG</span>.\nIf Starshatter is cast when a Jade Screen is nearby, the Jade Screen will fire additional gem projectiles at the same time.\n\n<i>Stars shatter. Silence falls.</i>",

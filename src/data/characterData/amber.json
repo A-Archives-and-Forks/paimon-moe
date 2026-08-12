@@ -480,6 +480,7 @@
       "description": "Decreases gliding Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Fiery Rain",
     "description": "Fires off a shower of arrows, dealing continuous <span style=\"color: #FF9999FF;\">AoE Pyro DMG</span>.\n\n<i>Amber's passion truly burns hot.</i>",

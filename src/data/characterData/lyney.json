@@ -480,6 +480,7 @@
       "description": "Displays the location of nearby <span style=\"color: #FFD780FF;\">resources unique to Fontaine</span> on the mini-map."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Wondrous Trick: Miracle Parade",
     "description": "Unleashing his magic, Lyney turns himself into a Grin-Malkin Cat that can move around quickly. (Not to be mistaken for the Grin-Malkin Hat. They're two different props!)\nWhen the Grin-Malkin Cat gets close to opponents, it will send flames falling down on them, dealing at most 1 instance of <span style=\"color: #FF9999FF;\">Pyro DMG</span> to each opponent. When the duration ends, he will dismiss the Grin-Malkin Cat and ignite fireworks that deal <span style=\"color: #FF9999FF;\">AoE Pyro DMG</span>, summon 1 Grin-Malkin Hat, and grant himself 1 Prop Surplus stack.\n\nGrin-Malkin Cat can be actively canceled.\n\n<i>\"Watch closely now. This is a time for miracles, and it belongs to just the two of us!\"</i>",

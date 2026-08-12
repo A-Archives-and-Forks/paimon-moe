@@ -484,6 +484,7 @@
       "description": "Sangonomiya Kokomi has a 25% Healing Bonus, but a 100% decrease in CRIT Rate."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Nereid's Ascension",
     "description": "Summons the might of Watatsumi, dealing <span style=\"color: #80C0FFFF;\">Hydro DMG</span> to surrounding opponents, before robing Kokomi in a Ceremonial Garment made from the flowing waters of Sangonomiya.\n\n<span style=\"color: #FFD780FF;\">Ceremonial Garment</span>\n·Sangonomiya Kokomi's Normal Attack, Charged Attack and Bake-Kurage DMG are increased based on her Max HP.\n·When her Normal and Charged Attacks hit opponents, Kokomi will restore HP for all nearby party members, and the amount restored is based on her Max HP.\n·Increases Sangonomiya Kokomi's resistance to interruption and allows her to walk on the water's surface.\n\nThese effects will be cleared once Sangonomiya Kokomi leaves the field.\n\n<i>Clear light coalesces into robes around Her Excellency, Sangonomiya Kokomi, reflecting her magnificent form.</i>",

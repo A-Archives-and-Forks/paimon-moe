@@ -489,6 +489,7 @@
       "description": "After completing <span style=\"color: #FFD780FF;\">Witch's Homework: Of Leaves That Spark</span>, Klee will become a <span style=\"color: #FFD780FF;\">Hexerei</span> character. When the party includes at least 2 Hexerei characters, you will gain the <span style=\"color: #FFD780FF;\">Hexerei: Secret Rite</span> effect, which enhances Hexerei characters.\n\n<span style=\"color: #FFD780FF;\">Hexerei: Secret Rite</span>\nWhen Klee deals DMG with Normal Attacks, Elemental Skills, or Elemental Bursts, she gains 1 Boom Badge that lasts 20s. Each type of attack can grant at most 1 Boom Badge this way, and each badge has its own independent timer. While Klee has 1/2/3 Boom Badges, her special Charged Attack Boom-Boom Strike deals 115%/130%/150% of its original DMG."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Sparks 'n' Splash",
     "description": "Klee's Blazing Delight! For the duration of this ability, continuously summons Sparks 'n' Splash to attack nearby opponents, dealing <span style=\"color: #FF9999FF;\">AoE Pyro DMG</span>.\n\n<i>The knights all believe that Klee must have a lucky star watching over her to have never been hurt by any of her own bombs...</i>",

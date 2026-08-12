@@ -480,6 +480,7 @@
       "description": "When Lan Yan is in the party, your characters will not startle Crystalflies and certain other animals when getting near them.\nCheck the \"Other\" sub-category of the \"Living Beings / Wildlife\" section in the Archive for creatures this skill works on."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Lustrous Moonrise",
     "description": "Lan Yan creates a Feathermoon Swallow Array, pulling in nearby opponents and objects and dealing multiple instances of <span style=\"color: #80FFD7FF;\">AoE Anemo DMG</span>.\n\n<i>Strictly speaking, with only Lan Yan herself present, it cannot properly be called an \"array.\" However, if her Rattan Figures are brought into the picture, she can sort of fulfill the requirements... Probably.</i>",

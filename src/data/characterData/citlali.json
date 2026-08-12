@@ -484,6 +484,7 @@
       "description": "While in an area with Phlogiston Mechanics within Natlan, triggering \"Nightsoul Burst\" restores 20 Phlogiston.\nThis cannot take effect in Domains, Trounce Domains, or the Spiral Abyss."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Edict of Entwined Splendor",
     "description": "Summons \"allies\" from the starry skies and the vast earth, hurling forth an ice storm to bombard the area in front and deal Nightsoul-aligned <span style=\"color: #99FFFFFF;\">AoE Cryo DMG</span>. This restores a set amount of Nightsoul points for Citlali, and also summons a <span style=\"color: #FFD780FF;\">Spiritvessel Skull</span> near a maximum of 3 opponents within the AoE, with 1 Skull for each opponent. Spiritvessel Skulls explode after some time, dealing Nightsoul-aligned <span style=\"color: #99FFFFFF;\">AoE Cryo DMG</span> and restoring a set amount of Nightsoul points for Citlali.\n\n<i>\"Ugh, enough of this 'dark star, opal star' stuff! Citlalin, Itzpapa, get 'em!\"</i>",

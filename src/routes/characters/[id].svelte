@@ -379,6 +379,7 @@
             <p>{$t('characters.ascensionMaterial')}</p>
             <div class="flex items-center mt-2">
               {#each materials as material}
+                {@debug material}
                 {#if material.item.id !== 'none'}
                   <Tooltip title={$t(material.item.name)}>
                     <div class="mr-2 h-12 w-12 bg-background rounded-xl p-1">

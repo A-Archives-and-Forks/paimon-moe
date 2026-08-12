@@ -480,6 +480,7 @@
       "description": "Has a 25% chance to recover some of the materials used when crafting Character and Weapon Materials."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Alcazarzaray's Exactitude",
     "description": "Summons forth the Jinni within the lamp to give the client various kinds of aid.\n\n<span style=\"color: #FFD780FF;\">Jinni</span>\nConnects to a nearby character. The connected character will:\n· Continuously restore HP based on Dori's Max HP.\n· Continuously regenerate Energy.\n· Be affected by <span style=\"color: #FFACFFFF;\">Electro</span>.\nWhen the connector between the Jinni and the character touches opponents, it will deal one instance of <span style=\"color: #FFACFFFF;\">Electro DMG</span> to them every 0.4s.\n\nOnly one Jinni can exist at one time.\n\n<i>\"Hmm? You'll pick this lamp, will you? Oh my, you've got good taste! Unfortunately, there's no price on this treasure — comparable, I'd say, to how you will not sell that mascot by your side for any price in the world.\"</i>",

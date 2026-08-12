@@ -480,6 +480,7 @@
       "description": "Refunds 15% of the ore used when crafting Bow-type weapons."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Celestial Shower",
     "description": "Coalesces atmospheric frost and snow to summon a Sacred Cryo Pearl that exorcises evil.\nDuring its ability duration, the Sacred Cryo Pearl will continuously rain down shards of ice, striking opponents within an AoE and dealing <span style=\"color: #99FFFFFF;\">Cryo DMG</span>.\n\n<i>Ganyu can bring down sweet rains as a matter of course. But against demons and heretics, they become bitter, freezing snow.</i>",

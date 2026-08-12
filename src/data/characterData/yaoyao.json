@@ -480,6 +480,7 @@
       "description": "When Yaoyao is in the party, your characters will not startle Crystalflies and certain other animals when getting near them.\nCheck the \"Other\" sub-category of the \"Living Beings / Wildlife\" section in the Archive for creatures this skill works on."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Moonjade Descent",
     "description": "At the enjoinment of a certain adeptus, Yuegui's full potential can be unleashed in an emergency, dealing <span style=\"color: #99FF88FF;\">Dendro DMG</span> to nearby opponents and entering an (in some sense) unsurpassed Adeptal Legacy state.\n\n<span style=\"color: #FFD780FF;\">Adeptal Legacy</span>\n·White Jade Radishes generated will be changed to heal and deal DMG according to this skill. Explosions will heal all nearby party members, and the <span style=\"color: #99FF88FF;\">Dendro DMG</span> that they deal will be viewed as Elemental Burst DMG instead.\n·Summons \"Yuegui: Jumping Mode\" at intervals until their limit has been reached. The behavior of this version of Yuegui is the same as that of \"Yuegui: Throwing Mode\" in the Elemental Skill, Raphanus Sky Cluster. A maximum of 3 Yuegui: Jumping Mode can exist at any one time.\n·Yaoyao's Movement SPD is increased by 15%.\n·Yaoyao's <span style=\"color: #99FF88FF;\">Dendro RES</span> will be increased.\n\nThe Adeptal Legacy state will end once Yaoyao is off-field, and all remaining Yuegui: Jumping Mode will be cleared once this state ends.\n\n<i>\"Eh? Which one of these is actually Yuegui, you ask? Aren't they all Yuegui?\"</i>",

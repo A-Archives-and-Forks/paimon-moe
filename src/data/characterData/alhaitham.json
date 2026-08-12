@@ -480,6 +480,7 @@
       "description": "When Alhaitham crafts Weapon Ascension Materials, he has a 10% chance to receive double the product."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Particular Field: Fetters of Phenomena",
     "description": "Creates a Particular Binding Field and deals multiple instances of <span style=\"color: #99FF88FF;\">AoE Dendro DMG</span>.\nIf Chisel-Light Mirrors exist when this ability is unleashed, all such Mirrors will be consumed and increase the number of DMG instances dealt.\n2s after this ability is unleashed, if 0/1/2/3 Mirrors were consumed, Alhaitham will generate 3/2/1/0 new Mirrors in turn.\n\n<i>\"If a researcher makes wisdom their goal, then they should be prepared to make an enemy of every word they read. Only then can they avoid bias.\"</i>",

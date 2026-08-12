@@ -480,6 +480,7 @@
       "description": "When Kirara is in the party, animals who produce Fowl, Raw Meat, or Chilled Meat will not be startled when party members approach them."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Secret Art: Surprise Dispatch",
     "description": "Smash opponents with a Special Delivery Package used for punishing parcel thieves, dealing <span style=\"color: #99FF88FF;\">AoE Dendro DMG</span>. After the Special Delivery Package explodes, it will split up into many <span style=\"color: #FFD780FF;\">Cat Grass Cardamoms</span> that will explode either upon contact with opponents or after a period of time, dealing <span style=\"color: #99FF88FF;\">AoE Dendro DMG</span>.\n\n<i>\"Hehe, that's right, this stuff was made to deal with those parcel thieves! Remember to leave a 5-star rating once you've received yours!\"</i>",

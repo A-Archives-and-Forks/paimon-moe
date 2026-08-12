@@ -480,6 +480,7 @@
       "description": "When Ayato cooks a dish perfectly, he has an 18% chance to receive an additional \"Suspicious\" dish of the same type."
     }
   ],
+  "links": {},
   "burst": {
     "name": "Kamisato Art: Suiyuu",
     "description": "Unveils a garden of purity that silences the cacophony within.\nWhile this space exists, Bloomwater Blades will constantly rain down and attack opponents within its AoE, dealing <span style=\"color: #80C0FFFF;\">Hydro DMG</span> and increasing the Normal Attack DMG of characters within.\n\n<i>\"I can see them, you know. The ripples of your beating heart within this realm of still waters.\"</i>",
