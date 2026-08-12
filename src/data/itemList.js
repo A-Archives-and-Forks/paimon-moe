@@ -2261,4 +2261,94 @@ export const itemList = {
     rarity: 4,
     parent: 'teachings_of_fortitude',
   },
+  rise_of_the_pale_star_army: {
+    id: 'rise_of_the_pale_star_army',
+    name: 'Rise of the Pale Star Army',
+    rarity: 2,
+  },
+  muster_of_the_pale_star_army: {
+    id: 'muster_of_the_pale_star_army',
+    name: 'Muster of the Pale Star Army',
+    rarity: 3,
+  },
+  clarion_of_the_pale_star_army: {
+    id: 'clarion_of_the_pale_star_army',
+    name: 'Clarion of the Pale Star Army',
+    rarity: 4,
+  },
+  triumph_of_the_pale_star_army: {
+    id: 'triumph_of_the_pale_star_army',
+    name: 'Triumph of the Pale Star Army',
+    rarity: 5,
+  },
+  hollow_root_of_life: {
+    id: 'hollow_root_of_life',
+    name: 'Hollow Root of Life',
+    rarity: 2,
+  },
+  sprout_node_of_life: {
+    id: 'sprout_node_of_life',
+    name: 'Sprout Node of Life',
+    rarity: 3,
+  },
+  coiled_core_of_life: {
+    id: 'coiled_core_of_life',
+    name: 'Coiled Core of Life',
+    rarity: 4,
+  },
+  accreted_fragment: {
+    id: 'accreted_fragment',
+    name: 'Accreted Fragment',
+    rarity: 2,
+  },
+  accreted_mass: {
+    id: 'accreted_mass',
+    name: 'Accreted Mass',
+    rarity: 3,
+  },
+  accreted_growth: {
+    id: 'accreted_growth',
+    name: 'Accreted Growth',
+    rarity: 4,
+  },
+  the_frost_emperors_revival: {
+    id: 'the_frost_emperors_revival',
+    name: "The Frost Emperor's Revival",
+    rarity: 2,
+  },
+  the_frost_emperors_ceremony: {
+    id: 'the_frost_emperors_ceremony',
+    name: "The Frost Emperor's Ceremony",
+    rarity: 3,
+  },
+  the_frost_emperors_lament: {
+    id: 'the_frost_emperors_lament',
+    name: "The Frost Emperor's Lament",
+    rarity: 4,
+  },
+  the_frost_emperors_farewell: {
+    id: 'the_frost_emperors_farewell',
+    name: "The Frost Emperor's Farewell",
+    rarity: 5,
+  },
+  measured_pour_of_the_cellared_spiritual_nectar: {
+    id: 'measured_pour_of_the_cellared_spiritual_nectar',
+    name: 'Measured Pour of the Cellared Spiritual Nectar',
+    rarity: 2,
+  },
+  intoxication_of_the_cellared_spiritual_nectar: {
+    id: 'intoxication_of_the_cellared_spiritual_nectar',
+    name: 'Intoxication of the Cellared Spiritual Nectar',
+    rarity: 3,
+  },
+  exhilaration_of_the_cellared_spiritual_nectar: {
+    id: 'exhilaration_of_the_cellared_spiritual_nectar',
+    name: 'Exhilaration of the Cellared Spiritual Nectar',
+    rarity: 4,
+  },
+  revelry_of_the_cellared_spiritual_nectar: {
+    id: 'revelry_of_the_cellared_spiritual_nectar',
+    name: 'Revelry of the Cellared Spiritual Nectar',
+    rarity: 5,
+  },
 };
