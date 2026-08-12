@@ -861,8 +861,6 @@ export const itemList = {
 
   runic_fang: { id: 'runic_fang', name: 'Runic Fang', rarity: 4 },
 
-  runic_fang: { id: 'runic_fang', name: 'Runic Fang', rarity: 4 },
-
   teachings_of_admonition: {
     id: 'teachings_of_admonition',
     name: 'Teachings of Admonition',
@@ -1305,30 +1303,15 @@ export const itemList = {
     name: 'Xenochromatic Crystal',
     rarity: 3,
   },
-  dross_of_pure_sacred_dewdrop: {
-    id: 'dross_of_pure_sacred_dewdrop',
-    name: 'Dross of Pure Sacred Dewdrop',
-    rarity: 2,
-  },
   drop_of_tainted_water: {
     id: 'drop_of_tainted_water',
     name: 'Drop of Tainted Water',
     rarity: 2,
   },
-  sublimation_of_pure_sacred_dewdrop: {
-    id: 'sublimation_of_pure_sacred_dewdrop',
-    name: 'Sublimation of Pure Sacred Dewdrop',
-    rarity: 3,
-  },
   scoop_of_tainted_water: {
     id: 'scoop_of_tainted_water',
     name: 'Scoop of Tainted Water',
     rarity: 3,
-  },
-  spring_of_pure_sacred_dewdrop: {
-    id: 'spring_of_pure_sacred_dewdrop',
-    name: 'Spring of Pure Sacred Dewdrop',
-    rarity: 4,
   },
   newborn_tainted_hydro_phantasm: {
     id: 'newborn_tainted_hydro_phantasm',
@@ -1870,50 +1853,20 @@ export const itemList = {
     rarity: 4,
     parent: 'teachings_of_moonlight',
   },
-  sundered_glory_of_the_far_north_scions: {
-    id: 'sundered_glory_of_the_far_north_scions',
-    name: 'Sundered Glory of the Far-North Scions',
-    rarity: 2,
-  },
   lightless_bone: {
     id: 'lightless_bone',
     name: 'Lightless Bone',
     rarity: 2,
-  },
-  unyielding_delusion_of_the_far_north_scions: {
-    id: 'unyielding_delusion_of_the_far_north_scions',
-    name: 'Unyielding Delusion of the Far-North Scions',
-    rarity: 3,
   },
   glowing_remains: {
     id: 'glowing_remains',
     name: 'Glowing Remains',
     rarity: 3,
   },
-  immaculate_warrant: {
-    id: 'immaculate_warrant',
-    name: 'Immaculate Warrant',
-    rarity: 2,
-  },
-  oblation_of_the_far_north_scions: {
-    id: 'oblation_of_the_far_north_scions',
-    name: 'Oblation of the Far-North Scions',
-    rarity: 4,
-  },
   radiant_exoskeleton: {
     id: 'radiant_exoskeleton',
     name: 'Radiant Exoskeleton',
     rarity: 4,
-  },
-  frost_etched_warrant: {
-    id: 'frost_etched_warrant',
-    name: 'Frost-Etched Warrant',
-    rarity: 3,
-  },
-  aureate_radiance_of_the_far_north_scions: {
-    id: 'aureate_radiance_of_the_far_north_scions',
-    name: 'Aureate Radiance of the Far-North Scions',
-    rarity: 5,
   },
   artful_device_fragment: {
     id: 'artful_device_fragment',

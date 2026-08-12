@@ -14699,7 +14699,6 @@ export const characters = {
       ],
       boss: itemList.mudra_of_the_malefic_general,
     },
-    element: elements.dendro,
   },
   traveler_hydro: {
     id: 'traveler_hydro',
