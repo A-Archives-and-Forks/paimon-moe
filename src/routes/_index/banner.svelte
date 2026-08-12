@@ -1,6 +1,7 @@
 <script>
   import { mdiChevronRight, mdiEarth, mdiLoading } from '@mdi/js';
   import { onMount, createEventDispatcher, tick } from 'svelte';
+  import { latestBanner } from 'v:homepage-banner';
 
   import { t } from 'svelte-i18n';
   import Icon from '../../components/Icon.svelte';
@@ -12,16 +13,18 @@
 
   const dispatch = createEventDispatcher();
 
+  const char1 = latestBanner[1];
+  const char2 = latestBanner[0];
   const featured = {
-    columbina: {
-      name: 'Columbina',
+    [char1.id]: {
+      name: char1.name,
       rarity: 'legendary',
       count: 0,
       average: '...',
       percentage: '...',
     },
-    raiden_shogun: {
-      name: 'Raiden Shogun',
+    [char2.id]: {
+      name: char2.name,
       rarity: 'legendary',
       count: 0,
       average: '...',
