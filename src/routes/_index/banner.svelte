@@ -31,10 +31,10 @@
       percentage: '...',
     },
   };
-  const bannerId = 300104;
-  const image = 'arlecchino odette.webp';
+  const bannerId = 300105;
+  const image = 'ineffa flins.webp';
   const width = 800;
-  const height = 415;
+  const height = 365;
 
   let loading = true;
   let user = '';

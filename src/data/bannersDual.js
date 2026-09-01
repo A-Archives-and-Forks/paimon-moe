@@ -1953,4 +1953,28 @@ export const bannersDual = {
       timezoneDependent: true,
     },
   ],
+  'The Lone Light Knocks at Night 3': [
+    {
+      name: 'The Lone Light Knocks at Night',
+      image: 3,
+      shortName: 'Flins',
+      start: '2026-09-01 18:00:00',
+      end: '2026-09-22 14:59:00',
+      color: '#47c2d5',
+      featured: ['flins', 'ineffa'],
+      featuredRare: ['aino', 'iansan', 'lan_yan'],
+      version: '7.0',
+    },
+    {
+      name: 'Astral Actuation',
+      image: 3,
+      shortName: 'Ineffa',
+      start: '2026-09-01 18:00:00',
+      end: '2026-09-22 14:59:00',
+      color: '#e3ffff',
+      featured: ['flins', 'ineffa'],
+      featuredRare: ['aino', 'iansan', 'lan_yan'],
+      version: '7.0',
+    },
+  ],
 };
