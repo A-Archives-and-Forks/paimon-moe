@@ -469,6 +469,10 @@
   ],
   "passives": [
     {
+      "name": "Polaris",
+      "description": "When holding down on the Elemental Skill <span style=\"color: #FFD780FF;\">Tidecaller</span>, 1 stack of power will accumulate every 0.8s, even when not under attack. This increases the DMG dealt at the point of unleashing.\nAdditionally, holding down to unleash <span style=\"color: #FFD780FF;\">Tidecaller</span> and hitting the opponent also gives extra boosts based on the power accumulated: every stack active decreases Beidou's Elemental Skill CD by 4s, as well as regenerates 8 Elemental Energy for her. This effect can trigger once every 15s.\nAdditionally, when inside a <button data-link=\"11330003\"><span style=\"color: #FFD780FF;\">Polestar Field</span></button>, Beidou will enter the <span style=\"color: #FFD780FF;\">Radiance: Stellar-Conduct</span> state."
+    },
+    {
       "name": "Retribution",
       "description": "Counterattacking with <span style=\"color: #FFD780FF;\">Tidecaller</span> at the precise moment when the character is hit grants the maximum DMG Bonus."
     },
@@ -479,10 +483,6 @@
     {
       "name": "Conqueror of Tides",
       "description": "Decreases swimming Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects."
-    },
-    {
-      "name": "Polaris",
-      "description": "When holding down on the Elemental Skill <span style=\"color: #FFD780FF;\">Tidecaller</span>, 1 stack of power will accumulate every 0.8s, even when not under attack. This increases the DMG dealt at the point of unleashing.\nAdditionally, holding down to unleash <span style=\"color: #FFD780FF;\">Tidecaller</span> and hitting the opponent also gives extra boosts based on the power accumulated: every stack active decreases Beidou's Elemental Skill CD by 4s, as well as regenerates 8 Elemental Energy for her. This effect can trigger once every 15s.\nAdditionally, when inside a <button data-link=\"11330003\"><span style=\"color: #FFD780FF;\">Polestar Field</span></button>, Beidou will enter the <span style=\"color: #FFD780FF;\">Radiance: Stellar-Conduct</span> state."
     }
   ],
   "links": {

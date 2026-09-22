@@ -451,15 +451,15 @@
     },
     {
       "name": "Stranger in the Night",
-      "description": "Increases the Level of <span style=\"color: #FFD780FF;\">Ancient Ritual: Cometh the Night</span></button> by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of <button data-link-s=\"Ancient Ritual: Cometh the Night\"><span style=\"color: #FFD780FF;\">Ancient Ritual: Cometh the Night</span></button> by 3.\nMaximum upgrade level is 15."
     },
     {
       "name": "Night on Bald Mountain",
-      "description": "Flins's ATK is increased by 20%.\nAdditionally, his Ascension Talent {LINK#P1202201}<span style=\"color: #FFD780FF;\">Whispering Flame</span></button> is enhanced: Flins's Elemental Mastery is increased by 10% of his ATK. The maximum increase obtainable this way is 220."
+      "description": "Flins's ATK is increased by 20%.\nAdditionally, his Ascension Talent <button data-link-p=\"Whispering Flame\"><span style=\"color: #FFD780FF;\">Whispering Flame</span></button> is enhanced: Flins's Elemental Mastery is increased by 10% of his ATK. The maximum increase obtainable this way is 220."
     },
     {
       "name": "Exile's Shadow",
-      "description": "Increases the Level of <span style=\"color: #FFD780FF;\">Ancient Rite: Arcane Light</span></button> by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of <button data-link-s=\"Ancient Rite: Arcane Light\"><span style=\"color: #FFD780FF;\">Ancient Rite: Arcane Light</span></button> by 3.\nMaximum upgrade level is 15."
     },
     {
       "name": "Songs and Dances of Death",

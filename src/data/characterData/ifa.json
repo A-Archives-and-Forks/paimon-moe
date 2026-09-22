@@ -447,19 +447,19 @@
     },
     {
       "name": "Guiding Spirit of Ballistic Prayer",
-      "description": "When Ifa is in the Nightsoul's Blessing state, every Nightsoul point the party has above a total of 60 will grant Ifa 4 additional <button data-link=\"11130002\"><span style=\"color: #FFD780FF;\">Rescue Essentials</span></button> points.\nAdditionally, Ifa's Rescue Essentials limit is increased by 50.\nYou must first unlock the Ascension Talent {LINK#P1132101}<span style=\"color: #FFD780FF;\">Field Medic's Vision</span></button>."
+      "description": "When Ifa is in the Nightsoul's Blessing state, every Nightsoul point the party has above a total of 60 will grant Ifa 4 additional <button data-link=\"11130002\"><span style=\"color: #FFD780FF;\">Rescue Essentials</span></button> points.\nAdditionally, Ifa's Rescue Essentials limit is increased by 50.\nYou must first unlock the Ascension Talent <button data-link-p=\"Field Medic's Vision\"><span style=\"color: #FFD780FF;\">Field Medic's Vision</span></button>."
     },
     {
       "name": "Rebuttal in Negotiations With the Night",
-      "description": "Increases the Level of <span style=\"color: #FFD780FF;\">Airborne Disease Prevention</button></span> by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of <span style=\"color: #FFD780FF;\"><button data-link-s=\"Airborne Disease Prevention\">Airborne Disease Prevention</button></span> by 3.\nMaximum upgrade level is 15."
     },
     {
       "name": "Decayed Vessel's Permutation",
-      "description": "The restraining wind current created by the Elemental Burst <span style=\"color: #FFD780FF;\">Compound Sedation Field</button></span> has its duration extended to 3s.\nAdditionally, Ifa gains 100 Elemental Mastery for 15s after using his Elemental Burst <span style=\"color: #FFD780FF;\">Compound Sedation Field</span>."
+      "description": "The restraining wind current created by the Elemental Burst <span style=\"color: #FFD780FF;\"><button data-link-s=\"Compound Sedation Field\">Compound Sedation Field</button></span> has its duration extended to 3s.\nAdditionally, Ifa gains 100 Elemental Mastery for 15s after using his Elemental Burst <span style=\"color: #FFD780FF;\">Compound Sedation Field</span>."
     },
     {
       "name": "Vow of Universal Coexistence",
-      "description": "Increases the Level of <span style=\"color: #FFD780FF;\">Compound Sedation Field</button></span> by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of <span style=\"color: #FFD780FF;\"><button data-link-s=\"Compound Sedation Field\">Compound Sedation Field</button></span> by 3.\nMaximum upgrade level is 15."
     },
     {
       "name": "Oath on a Feathered Knot",
@@ -491,7 +491,7 @@
     },
     "11130002": {
       "title": "Rescue Essentials",
-      "desc": "Max 150 points. Each Rescue Essentials point Ifa has will increase the Swirl and Electro-Charged DMG dealt by nearby party members by 1.5%, and Lunar-Charged DMG dealt by 0.2%, and Stellar Swirl reaction DMG dealt by {PARAM#P1132101|5S100}%. These points will be cleared when his Nightsoul's Blessing state ends."
+      "desc": "Max 150 points. Each Rescue Essentials point Ifa has will increase the Swirl and Electro-Charged DMG dealt by nearby party members by 1.5%, and Lunar-Charged DMG dealt by 0.2%, and Stellar Swirl reaction DMG dealt by 0.24%. These points will be cleared when his Nightsoul's Blessing state ends."
     },
     "11130003": {
       "title": "Nightsoul's Blessing: Ifa",

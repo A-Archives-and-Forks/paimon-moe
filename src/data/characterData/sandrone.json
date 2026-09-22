@@ -451,7 +451,7 @@
     },
     {
       "name": "Refuse the Wake of Dusk, the Moonlit Yoke",
-      "description": "Increases the Level of <span style=\"color: #FFD780FF;\">Formule Phenomenale: Self-Evident Proposition</span></button> by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of <button data-link-s=\"Formule Phenomenale: Self-Evident Proposition\"><span style=\"color: #FFD780FF;\">Formule Phenomenale: Self-Evident Proposition</span></button> by 3.\nMaximum upgrade level is 15."
     },
     {
       "name": "In Knowledge Lies the World's True Ground",
@@ -459,7 +459,7 @@
     },
     {
       "name": "Of All Beside, She Takes No Part",
-      "description": "Increases the Level of <span style=\"color: #FFD780FF;\">Formule Phenomenale: Q.E.D.</span></button> by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of <button data-link-s=\"Formule Phenomenale: Q.E.D.\"><span style=\"color: #FFD780FF;\">Formule Phenomenale: Q.E.D.</span></button> by 3.\nMaximum upgrade level is 15."
     },
     {
       "name": "Narcissus Wakes, Her Eyes Upon the Dawn",
@@ -469,7 +469,7 @@
   "passives": [
     {
       "name": "Eternal Speculation Engine",
-      "description": "<button data-link=\"11500004\"><span style=\"color: #FFD780FF;\">Radiance: Stellar Glimmer</span></button>: When using the Elemental Skill <span style=\"color: #FFD780FF;\">Formule Phenomenale: Differential Analysis</span></button>, if Fagio's <span style=\"color: #FFD780FF;\"><button data-link=\"11330002\">Decoding Power</button></span> is greater than 50, the second Prism Shot fired by Fagio at nearby opponents will deal 400% of its original DMG as Fagio's Decoding Power is decreased.\nAdditionally, for every 10 points of <span style=\"color: #FFD780FF;\">Decoding Power</span> Fagio loses, it gains 1 stack of <span style=\"color: #FFD780FF;\">Refined Tactics</span> for 60s (max 10 stacks). When Sandrone uses the Elemental Burst <span style=\"color: #FFD780FF;\">Formule Phenomenale: Q.E.D.</span></button> while in the <span style=\"color: #FFD780FF;\">Radiance: Stellar Glimmer</span> state, all stacks of Refined Tactics are cleared, causing the Convective Inhibition Ray to deal 100% + (number of stacks cleared) × 10% of its original DMG."
+      "description": "<button data-link=\"11500004\"><span style=\"color: #FFD780FF;\">Radiance: Stellar Glimmer</span></button>: When using the Elemental Skill <button data-link-s=\"Formule Phenomenale: Differential Analysis\"><span style=\"color: #FFD780FF;\">Formule Phenomenale: Differential Analysis</span></button>, if Fagio's <span style=\"color: #FFD780FF;\"><button data-link=\"11330002\">Decoding Power</button></span> is greater than 50, the second Prism Shot fired by Fagio at nearby opponents will deal 400% of its original DMG as Fagio's Decoding Power is decreased.\nAdditionally, for every 10 points of <span style=\"color: #FFD780FF;\">Decoding Power</span> Fagio loses, it gains 1 stack of <span style=\"color: #FFD780FF;\">Refined Tactics</span> for 60s (max 10 stacks). When Sandrone uses the Elemental Burst <button data-link-s=\"Formule Phenomenale: Q.E.D.\"><span style=\"color: #FFD780FF;\">Formule Phenomenale: Q.E.D.</span></button> while in the <span style=\"color: #FFD780FF;\">Radiance: Stellar Glimmer</span> state, all stacks of Refined Tactics are cleared, causing the Convective Inhibition Ray to deal 100% + (number of stacks cleared) × 10% of its original DMG."
     },
     {
       "name": "A Lady's Code of Conduct",

@@ -34,6 +34,7 @@
 <div
   class="py-4 rounded-xl bg-item flex flex-col mb-2 whitespace-pre-wrap"
   style="{fade ? 'filter: grayscale(30%);' : ''} {order !== undefined ? `order: ${order};` : ''}"
+  id={name}
 >
   <div class="flex items-start px-4">
     <img src="/images/skills/{id}/{image}.png" alt={name} class="w-16 h-16 mr-4" />

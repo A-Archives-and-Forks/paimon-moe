@@ -857,7 +857,10 @@ export const itemList = {
   gloomy_statuette: { id: 'gloomy_statuette', name: 'Gloomy Statuette' },
   dark_statuette: { id: 'dark_statuette', name: 'Dark Statuette' },
   deathly_statuette: { id: 'deathly_statuette', name: 'Deathly Statuette' },
-  tears_of_the_calamitous_god: { id: 'tears_of_the_calamitous_god', name: 'Tears of the Calamitous God' },
+  tears_of_the_calamitous_god: {
+    id: 'tears_of_the_calamitous_god',
+    name: 'Tears of the Calamitous God',
+  },
 
   runic_fang: { id: 'runic_fang', name: 'Runic Fang', rarity: 4 },
 
@@ -991,7 +994,10 @@ export const itemList = {
     parent: 'echo_of_scorching_might',
   },
 
-  inactivated_fungal_nucleus: { id: 'inactivated_fungal_nucleus', name: 'Inactivated Fungal Nucleus' },
+  inactivated_fungal_nucleus: {
+    id: 'inactivated_fungal_nucleus',
+    name: 'Inactivated Fungal Nucleus',
+  },
   dormant_fungal_nucleus: { id: 'dormant_fungal_nucleus', name: 'Dormant Fungal Nucleus' },
   robust_fungal_nucleus: { id: 'robust_fungal_nucleus', name: 'Robust Fungal Nucleus' },
 
@@ -2303,5 +2309,35 @@ export const itemList = {
     id: 'revelry_of_the_cellared_spiritual_nectar',
     name: 'Revelry of the Cellared Spiritual Nectar',
     rarity: 5,
+  },
+  teachings_of_glory: {
+    id: 'teachings_of_glory',
+    name: 'Teachings of Glory',
+    day: ['wednesday', 'saturday'],
+    rarity: 2,
+  },
+  guide_to_glory: {
+    id: 'guide_to_glory',
+    name: 'Guide to Glory',
+    day: ['wednesday', 'saturday'],
+    rarity: 3,
+    parent: 'teachings_of_glory',
+  },
+  philosophies_of_glory: {
+    id: 'philosophies_of_glory',
+    name: 'Philosophies of Glory',
+    day: ['wednesday', 'saturday'],
+    rarity: 4,
+    parent: 'teachings_of_glory',
+  },
+  profaned_sprout: { id: 'profaned_sprout', name: 'Profaned Sprout' },
+  golden_fern: {
+    id: 'golden_fern',
+    name: 'Golden Fern',
+  },
+  vagabonds_cracked_armor: {
+    id: 'vagabonds_cracked_armor',
+    name: "Vagabond's Cracked Armor",
+    rarity: 4,
   },
 };

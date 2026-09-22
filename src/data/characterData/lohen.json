@@ -451,7 +451,7 @@
     },
     {
       "name": "Only the Spear That Wounds Can Heal",
-      "description": "Increases the Level of <span style=\"color: #FFD780FF;\">Unforeseen Strike</button></span> by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of <span style=\"color: #FFD780FF;\"><button data-link-s=\"Unforeseen Strike\">Unforeseen Strike</button></span> by 3.\nMaximum upgrade level is 15."
     },
     {
       "name": "Radiant Love, Laughing Death",
@@ -459,7 +459,7 @@
     },
     {
       "name": "Never Ask, Nor Trouble You to Know",
-      "description": "Increases the Level of <span style=\"color: #FFD780FF;\">Manifest Judgment</button></span> by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of <span style=\"color: #FFD780FF;\"><button data-link-s=\"Manifest Judgment\">Manifest Judgment</button></span> by 3.\nMaximum upgrade level is 15."
     },
     {
       "name": "To Drown, to Sink, Unconscious — Supreme Joy",
@@ -467,6 +467,10 @@
     }
   ],
   "passives": [
+    {
+      "name": "Witch's Eve Rite: Unhealing Thorn",
+      "description": "After completing <span style=\"color: #FFD780FF;\">Witch's Homework: Of Various Foes</span>, Lohen becomes a <span style=\"color: #FFD780FF;\">Hexerei</span> character. When the party includes at least 2 Hexerei characters, you gain the <span style=\"color: #FFD780FF;\">Hexerei: Secret Rite</span> effect, which enhances Hexerei characters.\n\n<span style=\"color: #FFD780FF;\">Hexerei: Secret Rite</span>\nWhen the special Elemental Skill <button data-link=\"11290002\"><span style=\"color: #FFD780FF;\">Etched Into Bone and Soul</span></button> hits an opponent or the Elemental Burst <span style=\"color: #FFD780FF;\">Manifest Judgment</span> is unleashed, if Lohen's <button data-link=\"11290004\"><span style=\"color: #FFD780FF;\">Will to Win</span></button> is at 50% or more of its max limit, his Normal Attack and Charged Attack DMG will be increased by 40% for 6s."
+    },
     {
       "name": "Moratorium on Questioning",
       "description": "When nearby party members accumulate <button data-link=\"11290004\"><span style=\"color: #FFD780FF;\">Will to Win</span></button> for Lohen by dealing DMG while he is in <button data-link=\"11290001\"><span style=\"color: #FFD780FF;\">Masterstroke</span></button> mode, if that DMG is not less than 3,000% of Lohen's Base ATK, it will accumulate an extra 60 <span style=\"color: #FFD780FF;\">Will to Win</span>."
@@ -478,10 +482,6 @@
     {
       "name": "When the Mood Strikes",
       "description": "Lohen gains \"High Spirits\" for 9s after he unleashes the Elemental Skill <span style=\"color: #FFD780FF;\">Unforeseen Strike</span>: Increases the Skill Level of <span style=\"color: #FFD780FF;\">Unforeseen Strike</span> by 1.\nWhen unleashing an Elemental Skill, if the Level of any other party member's Normal Attack, Elemental Skill, or Elemental Burst is not lower than Lohen's Elemental Skill Level, the duration of this instance of High Spirits will be increased by an additional 6s.\nHigh Spirits can be gained once every 18s."
-    },
-    {
-      "name": "Witch's Eve Rite: Unhealing Thorn",
-      "description": "After completing <span style=\"color: #FFD780FF;\">Witch's Homework: Of Various Foes</span>, Lohen becomes a <span style=\"color: #FFD780FF;\">Hexerei</span> character. When the party includes at least 2 Hexerei characters, you gain the <span style=\"color: #FFD780FF;\">Hexerei: Secret Rite</span> effect, which enhances Hexerei characters.\n\n<span style=\"color: #FFD780FF;\">Hexerei: Secret Rite</span>\nWhen the special Elemental Skill <button data-link=\"11290002\"><span style=\"color: #FFD780FF;\">Etched Into Bone and Soul</span></button> hits an opponent or the Elemental Burst <span style=\"color: #FFD780FF;\">Manifest Judgment</span> is unleashed, if Lohen's <button data-link=\"11290004\"><span style=\"color: #FFD780FF;\">Will to Win</span></button> is at 50% or more of its max limit, his Normal Attack and Charged Attack DMG will be increased by 40% for 6s."
     }
   ],
   "links": {
@@ -495,11 +495,11 @@
     },
     "11290003": {
       "title": "Joy",
-      "desc": "When Lohen hits opponents with a Normal Attack or Charged Attack while in Masterstroke mode, he will accumulate {PARAM#P1293201|13S1} <span style=\"color: #FFD780FF;\">Joy</span>. Up to 100 Joy may be accumulated at any one time.\n<span style=\"color: #FFD780FF;\">Joy</span> can be accumulated once every 0.1s. Once <span style=\"color: #FFD780FF;\">Joy</span> reaches its max limit, Lohen's Elemental Skill <span style=\"color: #FFD780FF;\">Unforeseen Strike</span> will be replaced with the special Elemental Skill <span style=\"color: #FFD780FF;\">Etched Into Bone and Soul</span>."
+      "desc": "When Lohen hits opponents with a Normal Attack or Charged Attack while in Masterstroke mode, he will accumulate 17 <span style=\"color: #FFD780FF;\">Joy</span>. Up to 100 Joy may be accumulated at any one time.\n<span style=\"color: #FFD780FF;\">Joy</span> can be accumulated once every 0.1s. Once <span style=\"color: #FFD780FF;\">Joy</span> reaches its max limit, Lohen's Elemental Skill <span style=\"color: #FFD780FF;\">Unforeseen Strike</span> will be replaced with the special Elemental Skill <span style=\"color: #FFD780FF;\">Etched Into Bone and Soul</span>."
     },
     "11290004": {
       "title": "Will to Win",
-      "desc": "A special resource accumulated when other nearby party members deal DMG while Lohen is in Masterstroke mode. Up to 100 Will to Win may be accumulated at any one time.\nWhile Masterstroke mode is active, when other nearby party members deal DMG, if that DMG is not less than {PARAM#P1293201|15S100}% of Lohen's Base ATK, he accumulates {PARAM#P1293201|16S1} <span style=\"color: #FFD780FF;\">Will to Win</span>. Otherwise, he accumulates 1 <span style=\"color: #FFD780FF;\">Will to Win</span>.\nEach character can accumulate <span style=\"color: #FFD780FF;\">Will to Win</span> for Lohen once every 0.1s."
+      "desc": "A special resource accumulated when other nearby party members deal DMG while Lohen is in Masterstroke mode. Up to 100 Will to Win may be accumulated at any one time.\nWhile Masterstroke mode is active, when other nearby party members deal DMG, if that DMG is not less than 1000% of Lohen's Base ATK, he accumulates 20 <span style=\"color: #FFD780FF;\">Will to Win</span>. Otherwise, he accumulates 1 <span style=\"color: #FFD780FF;\">Will to Win</span>.\nEach character can accumulate <span style=\"color: #FFD780FF;\">Will to Win</span> for Lohen once every 0.1s."
     }
   },
   "burst": {

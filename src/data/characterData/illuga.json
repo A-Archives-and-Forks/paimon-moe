@@ -447,29 +447,29 @@
     },
     {
       "name": "Elk With Fanged Antlers",
-      "description": "When Elemental Burst <span style=\"color: #FFD780FF;\">Shadowless Reflection</span></button>'s Haunted Night's Oriole-Song effect is active, for every 7 stacks of <button data-link=\"11270001\"><span style=\"color: #FFD780FF;\">Nightingale's Song</span></button> consumed, Illuga will summon Aedon, dealing a single instance of <span style=\"color: #FFE699FF;\">Geo DMG</span> to 1 nearby opponent. The DMG dealt is based on 400% of Illuga's Elemental Mastery and 200% of his DEF. This DMG is considered Elemental Burst DMG."
+      "description": "When Elemental Burst <button data-link-s=\"Shadowless Reflection\"><span style=\"color: #FFD780FF;\">Shadowless Reflection</span></button>'s Haunted Night's Oriole-Song effect is active, for every 7 stacks of <button data-link=\"11270001\"><span style=\"color: #FFD780FF;\">Nightingale's Song</span></button> consumed, Illuga will summon Aedon, dealing a single instance of <span style=\"color: #FFE699FF;\">Geo DMG</span> to 1 nearby opponent. The DMG dealt is based on 400% of Illuga's Elemental Mastery and 200% of his DEF. This DMG is considered Elemental Burst DMG."
     },
     {
       "name": "Earthshaking Maw",
-      "description": "Increases the Level of Elemental Burst <span style=\"color: #FFD780FF;\">Shadowless Reflection</button></span> by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of Elemental Burst <span style=\"color: #FFD780FF;\"><button data-link-s=\"Shadowless Reflection\">Shadowless Reflection</button></span> by 3.\nMaximum upgrade level is 15."
     },
     {
       "name": "Solarhunting Wolf",
-      "description": "When Elemental Burst <span style=\"color: #FFD780FF;\">Shadowless Reflection</button></span>'s Haunted Night's Oriole-Song effect is active, nearby active party members will have their DEF increased by 200."
+      "description": "When Elemental Burst <span style=\"color: #FFD780FF;\"><button data-link-s=\"Shadowless Reflection\">Shadowless Reflection</button></span>'s Haunted Night's Oriole-Song effect is active, nearby active party members will have their DEF increased by 200."
     },
     {
       "name": "Hurricane Steed",
-      "description": "Increases the Level of Elemental Skill <span style=\"color: #FFD780FF;\">Dawnbearing Songbird</button></span> by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of Elemental Skill <span style=\"color: #FFD780FF;\"><button data-link-s=\"Dawnbearing Songbird\">Dawnbearing Songbird</button></span> by 3.\nMaximum upgrade level is 15."
     },
     {
       "name": "Nightmare Orioles",
-      "description": "Enhances the Lightkeeper's Oath effect of the Ascension Talent <span style=\"color: #FFD780FF;\">{LINK#P1272101}Torchforger's Covenant</button></span>: For <span style=\"color: #FFE699FF;\">Geo DMG</span> dealt to opponents, CRIT Rate is increased by 10%, CRIT DMG is increased by 30%.\n\n<span style=\"color: #FFD780FF;\">Moonsign: Ascendant Gleam:</span>\nWhen characters are affected by Lightkeeper's Oath, Elemental Mastery is increased by 80.\nYou must first unlock the Ascension Talent \"<span style=\"color: #FFD780FF;\">Torchforger's Covenant</span>.\""
+      "description": "Enhances the Lightkeeper's Oath effect of the Ascension Talent <span style=\"color: #FFD780FF;\"><button data-link-p=\"Torchforger's Covenant\">Torchforger's Covenant</button></span>: For <span style=\"color: #FFE699FF;\">Geo DMG</span> dealt to opponents, CRIT Rate is increased by 10%, CRIT DMG is increased by 30%.\n\n<span style=\"color: #FFD780FF;\">Moonsign: Ascendant Gleam:</span>\nWhen characters are affected by Lightkeeper's Oath, Elemental Mastery is increased by 80.\nYou must first unlock the Ascension Talent \"<span style=\"color: #FFD780FF;\">Torchforger's Covenant</span>.\""
     }
   ],
   "passives": [
     {
       "name": "Torchforger's Covenant",
-      "description": "After unleashing Elemental Skill <span style=\"color: #FFD780FF;\">Dawnbearing Songbird</button></span> or Elemental Burst <span style=\"color: #FFD780FF;\">Shadowless Reflection</button></span>, other nearby party members will gain the Lightkeeper's Oath effect for 20s: For <span style=\"color: #FFE699FF;\">Geo DMG</span> dealt to opponents, CRIT Rate increases by 5% and CRIT DMG increases by 10%.\n\n<span style=\"color: #FFD780FF;\">Moonsign: Ascendant Gleam</span> \nParty members affected by the Lightkeeper's Oath effect have their Elemental Mastery increased by 50."
+      "description": "After unleashing Elemental Skill <span style=\"color: #FFD780FF;\"><button data-link-s=\"Dawnbearing Songbird\">Dawnbearing Songbird</button></span> or Elemental Burst <span style=\"color: #FFD780FF;\"><button data-link-s=\"Shadowless Reflection\">Shadowless Reflection</button></span>, other nearby party members will gain the Lightkeeper's Oath effect for 20s: For <span style=\"color: #FFE699FF;\">Geo DMG</span> dealt to opponents, CRIT Rate increases by 5% and CRIT DMG increases by 10%.\n\n<span style=\"color: #FFD780FF;\">Moonsign: Ascendant Gleam</span> \nParty members affected by the Lightkeeper's Oath effect have their Elemental Mastery increased by 50."
     },
     {
       "name": "Demonhunter's Dusk",

@@ -61,6 +61,11 @@ export const itemGroup = {
     items: [itemList.teachings_of_praxis, itemList.guide_to_praxis, itemList.philosophies_of_praxis],
     type: 'book',
   },
+  teachings_of_glory: {
+    name: 'Glory',
+    items: [itemList.teachings_of_glory, itemList.guide_to_praxis, itemList.philosophies_of_praxis],
+    type: 'book',
+  },
   tile_of_decarabians_tower: {
     name: 'Decarabian',
     items: [

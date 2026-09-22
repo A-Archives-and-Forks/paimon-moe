@@ -447,11 +447,11 @@
     },
     {
       "name": "Support Cleaning Module",
-      "description": "After the Elemental Burst <span style=\"color: #FFD780FF;\">Supreme Instruction: Cyclonic Exterminator</button></span> hits opponents, it will inflict the Punishment Edict status on one of those hit opponents: After a brief delay, or when this opponent is defeated, nearby opponents will take <span style=\"color: #FFACFFFF;\">AoE Electro DMG</span> equal to 300% of Ineffa's ATK. This DMG is considered Lunar-Charged DMG.\nAdditionally, when the Elemental Burst <span style=\"color: #FFD780FF;\">Supreme Instruction: Cyclonic Exterminator</span> is unleashed, nearby party members will gain Optical Flow Shield Barriers."
+      "description": "After the Elemental Burst <span style=\"color: #FFD780FF;\"><button data-link-s=\"Supreme Instruction: Cyclonic Exterminator\">Supreme Instruction: Cyclonic Exterminator</button></span> hits opponents, it will inflict the Punishment Edict status on one of those hit opponents: After a brief delay, or when this opponent is defeated, nearby opponents will take <span style=\"color: #FFACFFFF;\">AoE Electro DMG</span> equal to 300% of Ineffa's ATK. This DMG is considered Lunar-Charged DMG.\nAdditionally, when the Elemental Burst <span style=\"color: #FFD780FF;\">Supreme Instruction: Cyclonic Exterminator</span> is unleashed, nearby party members will gain Optical Flow Shield Barriers."
     },
     {
       "name": "Enhanced Emotion Emulator",
-      "description": "Increases the Level of <span style=\"color: #FFD780FF;\">Cleaning Mode: Carrier Frequency</button></span> by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of <span style=\"color: #FFD780FF;\"><button data-link-s=\"Cleaning Mode: Carrier Frequency\">Cleaning Mode: Carrier Frequency</button></span> by 3.\nMaximum upgrade level is 15."
     },
     {
       "name": "The Edictless Path",
@@ -459,7 +459,7 @@
     },
     {
       "name": "Mirror's Dream Transcension",
-      "description": "Increases the Level of <span style=\"color: #FFD780FF;\">Supreme Instruction: Cyclonic Exterminator</button></span> by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of <span style=\"color: #FFD780FF;\"><button data-link-s=\"Supreme Instruction: Cyclonic Exterminator\">Supreme Instruction: Cyclonic Exterminator</button></span> by 3.\nMaximum upgrade level is 15."
     },
     {
       "name": "A Dawning Morn for You",
@@ -473,7 +473,7 @@
     },
     {
       "name": "Panoramic Permutation Protocol",
-      "description": "When using the Elemental Burst <span style=\"color: #FFD780FF;\">Supreme Instruction: Cyclonic Exterminator</button></span>, all your party members will gain the Parameter Permutation effect: Increases Ineffa and your own active party member's Elemental Mastery by 6% of Ineffa's ATK for 20s."
+      "description": "When using the Elemental Burst <span style=\"color: #FFD780FF;\"><button data-link-s=\"Supreme Instruction: Cyclonic Exterminator\">Supreme Instruction: Cyclonic Exterminator</button></span>, all your party members will gain the Parameter Permutation effect: Increases Ineffa and your own active party member's Elemental Mastery by 6% of Ineffa's ATK for 20s."
     },
     {
       "name": "Moonsign Benediction: Assemblage Hub",

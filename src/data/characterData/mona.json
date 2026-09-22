@@ -472,6 +472,10 @@
   ],
   "passives": [
     {
+      "name": "Witch's Eve Rite: Genesis of Starsigns",
+      "description": "After completing <span style=\"color: #FFD780FF;\">Witch's Homework: Of Untested Insight</span>, Mona will become a <span style=\"color: #FFD780FF;\">Hexerei</span> character. When the party includes at least 2 Hexerei characters, you will gain the <span style=\"color: #FFD780FF;\">Hexerei: Secret Rite</span> effect, which enhances Hexerei characters.\n\n<span style=\"color: #FFD780FF;\">Hexerei: Secret Rite</span>\nWhen Mona's Normal Attacks or Charged Attacks hit an opponent, she gains 1 stack of <span style=\"color: #FFD780FF;\">Astral Glow of Mercury</span>, for 8s. Max 3 stacks. This effect can grant at most one stack every 0.1s. When other party members trigger a Vaporize reaction on an enemy, all Astral Glow of Mercury stacks are consumed. Each stack consumed increases the damage of that Vaporize reaction by 5%.\nAdditionally, when Mona's Normal Attacks or Charged Attacks hit an opponent, the enemy's <span style=\"color: #FFD780FF;\">Omen</span> duration is extended by 2s. This effect can trigger at most once every 0.5s, and can extend the Omen by up to 8s through this method."
+    },
+    {
       "name": "\"Come 'n' Get Me, Hag!\"",
       "description": "After she has used <span style=\"color: #FFD780FF;\">Illusory Torrent</span> for 2s, if there are any opponents nearby, Mona will automatically create a Phantom.\nA Phantom created in this manner lasts for 2s, and its explosion DMG is equal to 50% of <span style=\"color: #FFD780FF;\">Mirror Reflection of Doom</span>."
     },
@@ -482,10 +486,6 @@
     {
       "name": "Principium of Astrology",
       "description": "When Mona crafts Weapon Ascension Materials, she has a 25% chance to refund a portion of the crafting materials used."
-    },
-    {
-      "name": "Witch's Eve Rite: Genesis of Starsigns",
-      "description": "After completing <span style=\"color: #FFD780FF;\">Witch's Homework: Of Untested Insight</span>, Mona will become a <span style=\"color: #FFD780FF;\">Hexerei</span> character. When the party includes at least 2 Hexerei characters, you will gain the <span style=\"color: #FFD780FF;\">Hexerei: Secret Rite</span> effect, which enhances Hexerei characters.\n\n<span style=\"color: #FFD780FF;\">Hexerei: Secret Rite</span>\nWhen Mona's Normal Attacks or Charged Attacks hit an opponent, she gains 1 stack of <span style=\"color: #FFD780FF;\">Astral Glow of Mercury</span>, for 8s. Max 3 stacks. This effect can grant at most one stack every 0.1s. When other party members trigger a Vaporize reaction on an enemy, all Astral Glow of Mercury stacks are consumed. Each stack consumed increases the damage of that Vaporize reaction by 5%.\nAdditionally, when Mona's Normal Attacks or Charged Attacks hit an opponent, the enemy's <span style=\"color: #FFD780FF;\">Omen</span> duration is extended by 2s. This effect can trigger at most once every 0.5s, and can extend the Omen by up to 8s through this method."
     }
   ],
   "links": {},

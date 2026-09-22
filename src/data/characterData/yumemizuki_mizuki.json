@@ -472,6 +472,10 @@
   ],
   "passives": [
     {
+      "name": "Vast Be the Dream",
+      "description": "When Yumemizuki Mizuki triggers a Swirl or Stellar Swirl reaction while in the Dreamdrifter state, the next instance of periodic <span style=\"color: #80FFD7FF;\">AoE Anemo DMG</span> she deals to nearby enemies during that same state will be increased by 1,000% of her Elemental Mastery. The aforementioned effect can trigger once every 2.5s.\n<span style=\"color: #FFD780FF;\">Radiance: Stellar Swirl</span>: When Yumemizuki Mizuki deals to an opponent the above enhanced <span style=\"color: #80FFD7FF;\">AoE Anemo DMG</span>, she will also deal an additional instance of <span style=\"color: #80FFD7FF;\">Anemo DMG</span> at 1,000% of her Elemental Mastery. This DMG is considered Stellar Swirl reaction DMG.\n\nAdditionally, while Yumemizuki Mizuki is in the Dreamdrifter state, the Elemental Mastery of nearby party characters is also increased by 10% of her Elemental Mastery.\nYumemizuki Mizuki will also enter the <span style=\"color: #FFD780FF;\">Radiance: Stellar Swirl</span> state for 8s when a nearby party member triggers a Stellar Swirl reaction."
+    },
+    {
       "name": "Bright Moon's Restless Voice",
       "description": "When Yumemizuki Mizuki triggers a Swirl or Stellar Swirl reaction while in her Dreamdrifter state, Dreamdrifter's duration increases by 2.5s. This effect can trigger once every 0.3s for a maximum of 2 times per Dreamdrifter state."
     },
@@ -482,10 +486,6 @@
     {
       "name": "All Ailments Banished",
       "description": "When Yumemizuki Mizuki is in the party, party members have a chance to recover 30% additional HP when using healing foods that do not have reviving properties. The trigger chance for this effect increases with the corresponding character's Friendship Level. (This effect will always trigger if the Traveler is the character consuming healing food.)"
-    },
-    {
-      "name": "Vast Be the Dream",
-      "description": "When Yumemizuki Mizuki triggers a Swirl or Stellar Swirl reaction while in the Dreamdrifter state, the next instance of periodic <span style=\"color: #80FFD7FF;\">AoE Anemo DMG</span> she deals to nearby enemies during that same state will be increased by 1,000% of her Elemental Mastery. The aforementioned effect can trigger once every 2.5s.\n<span style=\"color: #FFD780FF;\">Radiance: Stellar Swirl</span>: When Yumemizuki Mizuki deals to an opponent the above enhanced <span style=\"color: #80FFD7FF;\">AoE Anemo DMG</span>, she will also deal an additional instance of <span style=\"color: #80FFD7FF;\">Anemo DMG</span> at 1,000% of her Elemental Mastery. This DMG is considered Stellar Swirl reaction DMG.\n\nAdditionally, while Yumemizuki Mizuki is in the Dreamdrifter state, the Elemental Mastery of nearby party characters is also increased by 10% of her Elemental Mastery.\nYumemizuki Mizuki will also enter the <<span style=\"color: #FFD780FF;\">Radiance: Stellar Swirl</span> state for 8s when a nearby party member triggers a Stellar Swirl reaction."
     }
   ],
   "links": {},

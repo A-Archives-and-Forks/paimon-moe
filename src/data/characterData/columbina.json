@@ -451,7 +451,7 @@
     },
     {
       "name": "Dreamlike Glow Across Tranquil Waters",
-      "description": "Increases the Level of Elemental Skill <span style=\"color: #FFD780FF;\">Eternal Tides</button></span> by 3.\nMaximum upgrade level is 15.\n\nAll nearby party members' Lunar Reaction DMG is <button data-link=\"11190007\"><span style=\"color: #FFD780FF;\">elevated</span></button> by 1.5%."
+      "description": "Increases the Level of Elemental Skill <span style=\"color: #FFD780FF;\"><button data-link-s=\"Eternal Tides\">Eternal Tides</button></span> by 3.\nMaximum upgrade level is 15.\n\nAll nearby party members' Lunar Reaction DMG is <button data-link=\"11190007\"><span style=\"color: #FFD780FF;\">elevated</span></button> by 1.5%."
     },
     {
       "name": "Cloudveiled Ridges in Floral Mists",
@@ -459,7 +459,7 @@
     },
     {
       "name": "Silence Tending One Lone Song",
-      "description": "Increases the Level of Elemental Burst <span style=\"color: #FFD780FF;\">Moonlit Melancholy</button></span> by 3.\nMaximum upgrade level is 15.\n\nAll nearby party members' Lunar Reaction DMG is <button data-link=\"11190007\"><span style=\"color: #FFD780FF;\">elevated</span></button> by 1.5%."
+      "description": "Increases the Level of Elemental Burst <span style=\"color: #FFD780FF;\"><button data-link-s=\"Moonlit Melancholy\">Moonlit Melancholy</button></span> by 3.\nMaximum upgrade level is 15.\n\nAll nearby party members' Lunar Reaction DMG is <button data-link=\"11190007\"><span style=\"color: #FFD780FF;\">elevated</span></button> by 1.5%."
     },
     {
       "name": "Through Darkness Led by Moonlight",

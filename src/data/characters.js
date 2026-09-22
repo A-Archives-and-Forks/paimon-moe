@@ -728,7 +728,6 @@ export const characters = {
       boss: itemList.elixir_of_the_heretic,
     },
     element: elements.electro,
-    new: true,
   },
   amber: {
     id: 'amber',
@@ -11625,7 +11624,6 @@ export const characters = {
       boss: itemList.twisted_withered_branch,
     },
     element: elements.cryo,
-    new: true,
   },
   ororon: {
     id: 'ororon',
@@ -15440,6 +15438,298 @@ export const characters = {
       boss: itemList.tail_of_boreas,
     },
     element: elements.anemo,
+  },
+  vesna: {
+    id: 'vesna',
+    name: 'Vesna',
+    rarity: 5,
+    weapon: weapons.sword,
+    stats: {
+      hp: 13262,
+      atk: 354,
+      def: 730,
+    },
+    ascension: [
+      {
+        items: [
+          {
+            item: itemList.vayuda_turquoise_sliver,
+            amount: 1,
+          },
+          {
+            item: itemList.none,
+            amount: null,
+          },
+          {
+            item: itemList.golden_fern,
+            amount: 3,
+          },
+          {
+            item: itemList.ethereal_glimmershard,
+            amount: 3,
+          },
+        ],
+        mora: 20000,
+      },
+      {
+        items: [
+          {
+            item: itemList.vayuda_turquoise_fragment,
+            amount: 3,
+          },
+          {
+            item: itemList.vagabonds_cracked_armor,
+            amount: 2,
+          },
+          {
+            item: itemList.golden_fern,
+            amount: 10,
+          },
+          {
+            item: itemList.ethereal_glimmershard,
+            amount: 15,
+          },
+        ],
+        mora: 40000,
+      },
+      {
+        items: [
+          {
+            item: itemList.vayuda_turquoise_fragment,
+            amount: 6,
+          },
+          {
+            item: itemList.vagabonds_cracked_armor,
+            amount: 4,
+          },
+          {
+            item: itemList.golden_fern,
+            amount: 20,
+          },
+          {
+            item: itemList.ethereal_crystal,
+            amount: 12,
+          },
+        ],
+        mora: 60000,
+      },
+      {
+        items: [
+          {
+            item: itemList.vayuda_turquoise_chunk,
+            amount: 3,
+          },
+          {
+            item: itemList.vagabonds_cracked_armor,
+            amount: 8,
+          },
+          {
+            item: itemList.golden_fern,
+            amount: 30,
+          },
+          {
+            item: itemList.ethereal_crystal,
+            amount: 18,
+          },
+        ],
+        mora: 80000,
+      },
+      {
+        items: [
+          {
+            item: itemList.vayuda_turquoise_chunk,
+            amount: 6,
+          },
+          {
+            item: itemList.vagabonds_cracked_armor,
+            amount: 12,
+          },
+          {
+            item: itemList.golden_fern,
+            amount: 45,
+          },
+          {
+            item: itemList.ethereal_crystalscale_stone,
+            amount: 12,
+          },
+        ],
+        mora: 100000,
+      },
+      {
+        items: [
+          {
+            item: itemList.vayuda_turquoise_gemstone,
+            amount: 6,
+          },
+          {
+            item: itemList.vagabonds_cracked_armor,
+            amount: 20,
+          },
+          {
+            item: itemList.golden_fern,
+            amount: 60,
+          },
+          {
+            item: itemList.ethereal_crystalscale_stone,
+            amount: 24,
+          },
+        ],
+        mora: 120000,
+      },
+    ],
+    material: {
+      material: [itemList.ethereal_glimmershard, itemList.ethereal_crystal, itemList.ethereal_crystalscale_stone],
+      book: [itemList.teachings_of_glory, itemList.guide_to_glory, itemList.philosophies_of_glory],
+      boss: itemList.profaned_sprout,
+    },
+    element: elements.anemo,
+    new: true,
+  },
+  vodyanitsa: {
+    id: 'vodyanitsa',
+    name: 'Vodyanitsa',
+    rarity: 5,
+    weapon: weapons.catalyst,
+    stats: {
+      hp: 14818,
+      atk: 108,
+      def: 484,
+    },
+    ascension: [
+      {
+        items: [
+          {
+            item: itemList.varunada_lazurite_sliver,
+            amount: 1,
+          },
+          {
+            item: itemList.none,
+            amount: null,
+          },
+          {
+            item: itemList.frostfairy_flower,
+            amount: 3,
+          },
+          {
+            item: itemList.chimeric_core,
+            amount: 3,
+          },
+        ],
+        mora: 20000,
+      },
+      {
+        items: [
+          {
+            item: itemList.varunada_lazurite_fragment,
+            amount: 3,
+          },
+          {
+            item: itemList.unscorched_blossom_branch,
+            amount: 2,
+          },
+          {
+            item: itemList.frostfairy_flower,
+            amount: 10,
+          },
+          {
+            item: itemList.chimeric_core,
+            amount: 15,
+          },
+        ],
+        mora: 40000,
+      },
+      {
+        items: [
+          {
+            item: itemList.varunada_lazurite_fragment,
+            amount: 6,
+          },
+          {
+            item: itemList.unscorched_blossom_branch,
+            amount: 4,
+          },
+          {
+            item: itemList.frostfairy_flower,
+            amount: 20,
+          },
+          {
+            item: itemList.symbiotic_chimeric_nucleus,
+            amount: 12,
+          },
+        ],
+        mora: 60000,
+      },
+      {
+        items: [
+          {
+            item: itemList.varunada_lazurite_chunk,
+            amount: 3,
+          },
+          {
+            item: itemList.unscorched_blossom_branch,
+            amount: 8,
+          },
+          {
+            item: itemList.frostfairy_flower,
+            amount: 30,
+          },
+          {
+            item: itemList.symbiotic_chimeric_nucleus,
+            amount: 18,
+          },
+        ],
+        mora: 80000,
+      },
+      {
+        items: [
+          {
+            item: itemList.varunada_lazurite_chunk,
+            amount: 6,
+          },
+          {
+            item: itemList.unscorched_blossom_branch,
+            amount: 12,
+          },
+          {
+            item: itemList.frostfairy_flower,
+            amount: 45,
+          },
+          {
+            item: itemList.prime_chimeric_nexus,
+            amount: 12,
+          },
+        ],
+        mora: 100000,
+      },
+      {
+        items: [
+          {
+            item: itemList.varunada_lazurite_gemstone,
+            amount: 6,
+          },
+          {
+            item: itemList.unscorched_blossom_branch,
+            amount: 20,
+          },
+          {
+            item: itemList.frostfairy_flower,
+            amount: 60,
+          },
+          {
+            item: itemList.prime_chimeric_nexus,
+            amount: 24,
+          },
+        ],
+        mora: 120000,
+      },
+    ],
+    material: {
+      material: [itemList.chimeric_core, itemList.symbiotic_chimeric_nucleus, itemList.prime_chimeric_nexus],
+      book: [itemList.teachings_of_fortitude, itemList.guide_to_fortitude, itemList.philosophies_of_fortitude],
+      boss: itemList.madmans_restraint,
+    },
+    element: elements.hydro,
+    new: true,
   },
   wanderer: {
     id: 'wanderer',

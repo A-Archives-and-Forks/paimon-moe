@@ -469,6 +469,10 @@
   ],
   "passives": [
     {
+      "name": "Witch's Eve Rite: Phantasmal Nocturne",
+      "description": "After completing <span style=\"color: #FFD780FF;\">Witch's Homework: Of the Unexpected</span>, Fischl will become a <span style=\"color: #FFD780FF;\">Hexerei</span> character. When the party includes at least 2 Hexerei characters, you will gain the <span style=\"color: #FFD780FF;\">Hexerei: Secret Rite</span> effect, which enhances Hexerei characters.\n\n<span style=\"color: #FFD780FF;\">Hexerei: Secret Rite</span>\nHark, Prince Nachtraben, Ozvaldo Hrafnavins, he who has witnessed the fall of countless worlds. Sing now the starry septet for your sovereign, for this is the moment of deepest sin, when the gathered souls at the end of causality shatter the darkness of fate.\nAdditionally, when Oz is on the field, party members will gain additional buff effects:\n· After a nearby party member triggers an Overloaded reaction, Fischl and other nearby active party members have their ATK increased by 22.5% for 10s.\n· After a nearby party member triggers an Electro-Charged or Lunar-Charged reaction, Fischl and other nearby active party members have their Elemental Mastery increased by 90 for 10s."
+    },
+    {
       "name": "Stellar Predator",
       "description": "When Fischl hits Oz with a fully-charged Aimed Shot, Oz brings down Thundering Retribution, dealing <span style=\"color: #FFACFFFF;\">AoE Electro DMG</span> equal to 152.7% of the arrow's DMG."
     },
@@ -479,10 +483,6 @@
     {
       "name": "Mein Hausgarten",
       "description": "When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%."
-    },
-    {
-      "name": "Witch's Eve Rite: Phantasmal Nocturne",
-      "description": "After completing <span style=\"color: #FFD780FF;\">Witch's Homework: Of the Unexpected</span>, Fischl will become a <span style=\"color: #FFD780FF;\">Hexerei</span> character. When the party includes at least 2 Hexerei characters, you will gain the <span style=\"color: #FFD780FF;\">Hexerei: Secret Rite</span> effect, which enhances Hexerei characters.\n\n<span style=\"color: #FFD780FF;\">Hexerei: Secret Rite</span>\nHark, Prince Nachtraben, Ozvaldo Hrafnavins, he who has witnessed the fall of countless worlds. Sing now the starry septet for your sovereign, for this is the moment of deepest sin, when the gathered souls at the end of causality shatter the darkness of fate.\nAdditionally, when Oz is on the field, party members will gain additional buff effects:\n· After a nearby party member triggers an Overloaded reaction, Fischl and other nearby active party members have their ATK increased by 22.5% for 10s.\n· After a nearby party member triggers an Electro-Charged or Lunar-Charged reaction, Fischl and other nearby active party members have their Elemental Mastery increased by 90 for 10s."
     }
   ],
   "links": {},

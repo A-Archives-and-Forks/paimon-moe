@@ -257,6 +257,14 @@
       });
     });
 
+    document.querySelectorAll('button[data-link-p], button[data-link-s], button[data-link-c]').forEach((btn) => {
+      btn.addEventListener('click', (event) => {
+        console.log(event.target);
+        const target = document.getElementById(event.target.innerText);
+        target.scrollIntoView();
+      });
+    });
+
     locale.subscribe((val) => {
       changeLocale(val);
     });

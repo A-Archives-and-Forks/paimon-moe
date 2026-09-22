@@ -447,11 +447,11 @@
     },
     {
       "name": "Useful for Cleaning Messy Baggage, Elemental Powers Are Indeed",
-      "description": "During the Elemental Burst <span style=\"color: #FFD780FF;\">The Bell Tolls! The Hunt Is On!</button></span>, when the Witchlure Bell is in Hunter-Seeker mode, Prune gains the Hunt the Witch effect: Prune's ATK increases by 10%, and when the Witchlure Bell and the <button data-link=\"11320001\"><span style=\"color: #FFD780FF;\">Banehunter Oathhammer</span></button> that has undergone Elemental Conversion hits an opponent, it further increases her ATK by 5%. Prune's ATK can be increased by up to 40% in this way.\nThe original instance of the above effect will be removed if \"The Bell Tolls! The Hunt Is On!\" is used again during this time."
+      "description": "During the Elemental Burst <span style=\"color: #FFD780FF;\"><button data-link-s=\"The Bell Tolls! The Hunt Is On!\">The Bell Tolls! The Hunt Is On!</button></span>, when the Witchlure Bell is in Hunter-Seeker mode, Prune gains the Hunt the Witch effect: Prune's ATK increases by 10%, and when the Witchlure Bell and the <button data-link=\"11320001\"><span style=\"color: #FFD780FF;\">Banehunter Oathhammer</span></button> that has undergone Elemental Conversion hits an opponent, it further increases her ATK by 5%. Prune's ATK can be increased by up to 40% in this way.\nThe original instance of the above effect will be removed if \"The Bell Tolls! The Hunt Is On!\" is used again during this time."
     },
     {
       "name": "The Caravan Exits the Mountain Pass, the Scenery Once More Changed",
-      "description": "Increases the Level of <span style=\"color: #FFD780FF;\">The Bell Tolls! The Hunt Is On!</button></span> by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of <span style=\"color: #FFD780FF;\"><button data-link-s=\"The Bell Tolls! The Hunt Is On!\">The Bell Tolls! The Hunt Is On!</button></span> by 3.\nMaximum upgrade level is 15."
     },
     {
       "name": "Looking Back Following the Wind, One's Shadow Still Halved",
@@ -459,17 +459,21 @@
     },
     {
       "name": "100 Defeats? No Problem, Tomorrow, We Go Again",
-      "description": "Increases the Level of <span style=\"color: #FFD780FF;\">Ring-A-Ding-Ding! Hexhunter Chime</button></span> by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of <span style=\"color: #FFD780FF;\"><button data-link-s=\"Ring-A-Ding-Ding! Hexhunter Chime\">Ring-A-Ding-Ding! Hexhunter Chime</button></span> by 3.\nMaximum upgrade level is 15."
     },
     {
       "name": "And That's the Story! Share It With Your Friends!",
-      "description": "The duration of the Witchlure Bell's Hunter-Seeker mode from the Elemental Burst <span style=\"color: #FFD780FF;\">The Bell Tolls! The Hunt Is On!</button></span> is extended by 4s.\nAdditionally, after party members affected by Tolling Rally trigger any Elemental Reaction, they will cause Prune and the other current active character(s) affected by Tolling Rally to gain 350 ATK for 5s."
+      "description": "The duration of the Witchlure Bell's Hunter-Seeker mode from the Elemental Burst <span style=\"color: #FFD780FF;\"><button data-link-s=\"The Bell Tolls! The Hunt Is On!\">The Bell Tolls! The Hunt Is On!</button></span> is extended by 4s.\nAdditionally, after party members affected by Tolling Rally trigger any Elemental Reaction, they will cause Prune and the other current active character(s) affected by Tolling Rally to gain 350 ATK for 5s."
     }
   ],
   "passives": [
     {
+      "name": "Witch's Eve Rite: Witchseeker's Vow",
+      "description": "After completing <span style=\"color: #FFD780FF;\">Witch's Homework: Of What Is Contested</span>, Prune becomes a <span style=\"color: #FFD780FF;\">Hexerei</span> character. When the party includes at least 2 Hexerei characters, you gain the <span style=\"color: #FFD780FF;\">Hexerei: Secret Rite</span> effect, which enhances Hexerei characters.\n\n<span style=\"color: #FFD780FF;\">Hexerei: Secret Rite</span>\nAfter a Hexerei character in the party affected by the Tolling Rally effect triggers an Elemental Reaction on an opponent, Prune's ATK is increased by 60% for 5s. If the Elemental Reaction triggered is a Swirl or Stellar Swirl reaction, the triggering character's ATK will additionally be increased by 30% for 5s."
+    },
+    {
       "name": "Verdict and Punishment",
-      "description": "During the Elemental Burst <span style=\"color: #FFD780FF;\">The Bell Tolls! The Hunt Is On!</button></span>, after the Witchlure Bell in Hunter-Seeker mode deals DMG to an opponent, if this DMG triggers Swirl or Stellar Swirl in an opponent, it will also summon a <button data-link=\"11320001\"><span style=\"color: #FFD780FF;\">Banehunter Oathhammer</span></button> that will deal 150% of Prune's ATK as DMG to them, with the DMG Type matching the Elemental Conversion from the Swirl or Stellar Swirl. This DMG is considered Elemental Burst DMG."
+      "description": "During the Elemental Burst <span style=\"color: #FFD780FF;\"><button data-link-s=\"The Bell Tolls! The Hunt Is On!\">The Bell Tolls! The Hunt Is On!</button></span>, after the Witchlure Bell in Hunter-Seeker mode deals DMG to an opponent, if this DMG triggers Swirl or Stellar Swirl in an opponent, it will also summon a <button data-link=\"11320001\"><span style=\"color: #FFD780FF;\">Banehunter Oathhammer</span></button> that will deal 150% of Prune's ATK as DMG to them, with the DMG Type matching the Elemental Conversion from the Swirl or Stellar Swirl. This DMG is considered Elemental Burst DMG."
     },
     {
       "name": "Tolling Synchronicity",
@@ -478,10 +482,6 @@
     {
       "name": "Tinker-Tink, Clank, and Bang!",
       "description": "Has a 10% chance to get 1 regional Character Talent Material (base material excluded) when crafting. The rarity is the same as the resulting material."
-    },
-    {
-      "name": "Witch's Eve Rite: Witchseeker's Vow",
-      "description": "After completing <span style=\"color: #FFD780FF;\">Witch's Homework: Of What Is Contested</span>, Prune becomes a <span style=\"color: #FFD780FF;\">Hexerei</span> character. When the party includes at least 2 Hexerei characters, you gain the <span style=\"color: #FFD780FF;\">Hexerei: Secret Rite</span> effect, which enhances Hexerei characters.\n\n<span style=\"color: #FFD780FF;\">Hexerei: Secret Rite</span>\nAfter a Hexerei character in the party affected by the Tolling Rally effect triggers an Elemental Reaction on an opponent, Prune's ATK is increased by 60% for 5s. If the Elemental Reaction triggered is a Swirl or Stellar Swirl reaction, the triggering character's ATK will additionally be increased by 30% for 5s."
     }
   ],
   "links": {

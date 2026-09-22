@@ -443,15 +443,15 @@
   "constellations": [
     {
       "name": "Burst Forth With Vigor, But Enter in Silence",
-      "description": "After using the Elemental Skill <span style=\"color: #FFD780FF;\">Heaven and Earth Made Manifest</button></span>, Zibai will immediately gain 100 <button data-link=\"11260001\"><span style=\"color: #FFD780FF;\">Phase Shift Radiance</span></button>, and the max number of <span style=\"color: #FFD780FF;\">Spirit Steed's Stride</span> usages per <span style=\"color: #FFD780FF;\">Lunar Phase Shift</span> mode is increased to 5 times.\nAdditionally, each time you switch to the Lunar Phase Shift mode, the first Spirit Steed's Stride's 2nd-hit Lunar-Crystallize Reaction DMG is increased by 220%."
+      "description": "After using the Elemental Skill <span style=\"color: #FFD780FF;\"><button data-link-s=\"Heaven and Earth Made Manifest\">Heaven and Earth Made Manifest</button></span>, Zibai will immediately gain 100 <button data-link=\"11260001\"><span style=\"color: #FFD780FF;\">Phase Shift Radiance</span></button>, and the max number of <span style=\"color: #FFD780FF;\">Spirit Steed's Stride</span> usages per <span style=\"color: #FFD780FF;\">Lunar Phase Shift</span> mode is increased to 5 times.\nAdditionally, each time you switch to the Lunar Phase Shift mode, the first Spirit Steed's Stride's 2nd-hit Lunar-Crystallize Reaction DMG is increased by 220%."
     },
     {
       "name": "At Birth Are Souls Born, and in Death Leave But Husks",
-      "description": "When in the <button data-link=\"11260001\"><span style=\"color: #FFD780FF;\">Lunar Phase Shift</span></button> mode, all nearby party members' Lunar-Crystallize Reaction DMG is increased by 30%.\n\n<span style=\"color: #FFD780FF;\">Moonsign: Ascendant Gleam</span>: Ascension Talent <span style=\"color: #FFD780FF;\">{LINK#P1262101}The Selenic Adeptus Descends</button></span> is enhanced: the DMG dealt by the 2nd hit of <span style=\"color: #FFD780FF;\">Spirit Steed's Stride</span> is further increased by 550% of Zibai's DEF. You must first unlock the Ascension Talent \"The Selenic Adeptus Descends.\""
+      "description": "When in the <button data-link=\"11260001\"><span style=\"color: #FFD780FF;\">Lunar Phase Shift</span></button> mode, all nearby party members' Lunar-Crystallize Reaction DMG is increased by 30%.\n\n<span style=\"color: #FFD780FF;\">Moonsign: Ascendant Gleam</span>: Ascension Talent <span style=\"color: #FFD780FF;\"><button data-link-p=\"The Selenic Adeptus Descends\">The Selenic Adeptus Descends</button></span> is enhanced: the DMG dealt by the 2nd hit of <span style=\"color: #FFD780FF;\">Spirit Steed's Stride</span> is further increased by 550% of Zibai's DEF. You must first unlock the Ascension Talent \"The Selenic Adeptus Descends.\""
     },
     {
       "name": "Free From Constraints and Worldly Ties",
-      "description": "Increases the Level of Elemental Skill <span style=\"color: #FFD780FF;\">Heaven and Earth Made Manifest</button></span> by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of Elemental Skill <span style=\"color: #FFD780FF;\"><button data-link-s=\"Heaven and Earth Made Manifest\">Heaven and Earth Made Manifest</button></span> by 3.\nMaximum upgrade level is 15."
     },
     {
       "name": "The Spirit Passes, Then Form Follows",
@@ -459,7 +459,7 @@
     },
     {
       "name": "Perceive the Worthless and Debate It Not",
-      "description": "Increases the Level of <span style=\"color: #FFD780FF;\">Tri-Sphere Eminence</button></span> by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of <span style=\"color: #FFD780FF;\"><button data-link-s=\"Tri-Sphere Eminence\">Tri-Sphere Eminence</button></span> by 3.\nMaximum upgrade level is 15."
     },
     {
       "name": "The World, A Journey in Passing",
@@ -469,7 +469,7 @@
   "passives": [
     {
       "name": "The Selenic Adeptus Descends",
-      "description": "When casting the Elemental Skill <span style=\"color: #FFD780FF;\">Heaven and Earth Made Manifest</button></span>, or when nearby party members trigger Moondrift Harmony, Zibai gains the <span style=\"color: #FFD780FF;\">Selenic Descent</span> effect for 4s: The DMG dealt by the 2nd hit of <button data-link=\"11260001\"><span style=\"color: #FFD780FF;\">Spirit Steed's Stride</span></button> is increased by 60% of Zibai's DEF."
+      "description": "When casting the Elemental Skill <span style=\"color: #FFD780FF;\"><button data-link-s=\"Heaven and Earth Made Manifest\">Heaven and Earth Made Manifest</button></span>, or when nearby party members trigger Moondrift Harmony, Zibai gains the <span style=\"color: #FFD780FF;\">Selenic Descent</span> effect for 4s: The DMG dealt by the 2nd hit of <button data-link=\"11260001\"><span style=\"color: #FFD780FF;\">Spirit Steed's Stride</span></button> is increased by 60% of Zibai's DEF."
     },
     {
       "name": "Layered Peaks Pierce the Clouds",
@@ -491,7 +491,7 @@
     },
     "11260001": {
       "title": "Lunar Phase Shift",
-      "desc": "After using the Elemental Skill <span style=\"color: #FFD780FF;\">Heaven and Earth Made Manifest</span>, Zibai will change to this mode. This mode lasts at most {PARAM#P1263201|4S1}s and has the following properties:\n· Normal and Charged Attacks are converted into <span style=\"color: #FFE699FF;\">Geo DMG</span> that cannot be overridden by other infusions.\n· The Elemental Skill <span style=\"color: #FFD780FF;\">Heaven and Earth Made Manifest</span> will also be converted to the Elemental Skill <span style=\"color: #FFD780FF;\">Spirit Steed's Stride</span>: When Zibai has at least 70 <span style=\"color: #FFD780FF;\">Phase Shift Radiance</span>, she can consume 70 Phase Shift Radiance to unleash Spirit Steed's Stride and cause two instances of <span style=\"color: #FFE699FF;\">Geo DMG</span>. The second instance will be considered Lunar-Crystallize Reaction DMG.\n\nA maximum of 100 <span style=\"color: #FFD780FF;\">Phase Shift Radiance</span> points can be accrued, and Zibai can accumulate them in the following ways:\n· She gains 10 points every second she is in the <span style=\"color: #FFD780FF;\">Lunar Phase Shift</span> mode.\n· She gains 5 points when hitting an opponent with her Normal Attacks. She can gain Phase Shift Radiance points in this way once every 0.5s.\n\n<span style=\"color: #FFD780FF;\">Moonsign: Ascendant Gleam</span>\nWhen nearby party members trigger Lunar-Crystallize, they will also accrue 35 <span style=\"color: #FFD780FF;\">Phase Shift Radiance</span> points for Zibai. Points can be gained this way once every 4s. Unleashing the special elemental skill <span style=\"color: #FFD780FF;\">Spirit Steed's Stride</span> will reset the CD for <span style=\"color: #FFD780FF;\">Phase Shift Radiance</span> gained this way.\n\nZibai will leave this mode after unleashing <span style=\"color: #FFD780FF;\">Spirit Steed's Stride</span> 4 times, or when the skill's duration ends."
+      "desc": "After using the Elemental Skill <span style=\"color: #FFD780FF;\">Heaven and Earth Made Manifest</span>, Zibai will change to this mode. This mode lasts at most 15s and has the following properties:\n· Normal and Charged Attacks are converted into <span style=\"color: #FFE699FF;\">Geo DMG</span> that cannot be overridden by other infusions.\n· The Elemental Skill <span style=\"color: #FFD780FF;\">Heaven and Earth Made Manifest</span> will also be converted to the Elemental Skill <span style=\"color: #FFD780FF;\">Spirit Steed's Stride</span>: When Zibai has at least 70 <span style=\"color: #FFD780FF;\">Phase Shift Radiance</span>, she can consume 70 Phase Shift Radiance to unleash Spirit Steed's Stride and cause two instances of <span style=\"color: #FFE699FF;\">Geo DMG</span>. The second instance will be considered Lunar-Crystallize Reaction DMG.\n\nA maximum of 100 <span style=\"color: #FFD780FF;\">Phase Shift Radiance</span> points can be accrued, and Zibai can accumulate them in the following ways:\n· She gains 10 points every second she is in the <span style=\"color: #FFD780FF;\">Lunar Phase Shift</span> mode.\n· She gains 5 points when hitting an opponent with her Normal Attacks. She can gain Phase Shift Radiance points in this way once every 0.5s.\n\n<span style=\"color: #FFD780FF;\">Moonsign: Ascendant Gleam</span>\nWhen nearby party members trigger Lunar-Crystallize, they will also accrue 35 <span style=\"color: #FFD780FF;\">Phase Shift Radiance</span> points for Zibai. Points can be gained this way once every 4s. Unleashing the special elemental skill <span style=\"color: #FFD780FF;\">Spirit Steed's Stride</span> will reset the CD for <span style=\"color: #FFD780FF;\">Phase Shift Radiance</span> gained this way.\n\nZibai will leave this mode after unleashing <span style=\"color: #FFD780FF;\">Spirit Steed's Stride</span> 4 times, or when the skill's duration ends."
     }
   },
   "burst": {

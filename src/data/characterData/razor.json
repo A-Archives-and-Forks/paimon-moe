@@ -469,6 +469,10 @@
   ],
   "passives": [
     {
+      "name": "Witch's Eve Rite: Surge of Lightning",
+      "description": "After completing <span style=\"color: #FFD780FF;\">Witch's Homework: Of the Little Wolf Pack</span>, Razor will become a <span style=\"color: #FFD780FF;\">Hexerei</span> character. When the party includes at least 2 Hexerei characters, you will gain the <span style=\"color: #FFD780FF;\">Hexerei: Secret Rite</span> effect, which enhances Hexerei characters.\nAdditionally, Razor's Elemental Burst <span style=\"color: #FFD780FF;\">Lightning Fang</span> is enhanced: <span style=\"color: #FFD780FF;\">The Wolf Within</span>'s DMG dealt is increased by 70% of Razor's ATK.\n\n<span style=\"color: #FFD780FF;\">Hexerei: Secret Rite</span>\nWhile the Wolf Within summoned by Razor's Elemental Burst <span style=\"color: #FFD780FF;\">Lightning Fang</span> is active, if the Electro Sigils from Razor's Elemental Skill <span style=\"color: #FFD780FF;\">Claw and Thunder</span> overflow, the Wolf Within will call down a lightning strike on nearby enemies, dealing AoE Electro DMG equal to 150% of Razor's ATK and restoring 7 Energy to Razor. This effect can be triggered once every 1s."
+    },
+    {
       "name": "Awakening",
       "description": "Decreases <span style=\"color: #FFD780FF;\">Claw and Thunder</span>'s CD by 18%.\nUsing <span style=\"color: #FFD780FF;\">Lightning Fang</span> resets the CD of <span style=\"color: #FFD780FF;\">Claw and Thunder</span>."
     },
@@ -479,10 +483,6 @@
     {
       "name": "Wolvensprint",
       "description": "Decreases sprinting Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects."
-    },
-    {
-      "name": "Witch's Eve Rite: Surge of Lightning",
-      "description": "After completing <span style=\"color: #FFD780FF;\">Witch's Homework: Of the Little Wolf Pack</span>, Razor will become a <span style=\"color: #FFD780FF;\">Hexerei</span> character. When the party includes at least 2 Hexerei characters, you will gain the <span style=\"color: #FFD780FF;\">Hexerei: Secret Rite</span> effect, which enhances Hexerei characters.\nAdditionally, Razor's Elemental Burst <span style=\"color: #FFD780FF;\">Lightning Fang</span> is enhanced: <span style=\"color: #FFD780FF;\">The Wolf Within</span>'s DMG dealt is increased by 70% of Razor's ATK.\n\n<span style=\"color: #FFD780FF;\">Hexerei: Secret Rite</span>\nWhile the Wolf Within summoned by Razor's Elemental Burst <span style=\"color: #FFD780FF;\">Lightning Fang</span> is active, if the Electro Sigils from Razor's Elemental Skill <span style=\"color: #FFD780FF;\">Claw and Thunder</span> overflow, the Wolf Within will call down a lightning strike on nearby enemies, dealing AoE Electro DMG equal to 150% of Razor's ATK and restoring 7 Energy to Razor. This effect can be triggered once every 1s."
     }
   ],
   "links": {},

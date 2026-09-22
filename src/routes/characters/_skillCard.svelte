@@ -83,7 +83,7 @@
   }
 </script>
 
-<div class="py-4 rounded-xl bg-item flex flex-col mb-4 whitespace-pre-wrap">
+<div class="py-4 rounded-xl bg-item flex flex-col mb-4 whitespace-pre-wrap" id={name}>
   <div class="flex mb-2 items-center px-4">
     <img src="/images/skills/{id}/{image}.png" alt={name} class="w-16 h-16 mr-4" />
     <div>

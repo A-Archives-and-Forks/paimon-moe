@@ -447,11 +447,11 @@
     },
     {
       "name": "\"I Will Guide You and Show You the Path You Should Tread\"",
-      "description": "Enhances the effects of the Elemental Skill <span style=\"color: #FFD780FF;\">Revelation: Uncreated Light</button></span>: <button data-link=\"11310001\"><span style=\"color: #FFD780FF;\">Grace of Kenosis</span></button> increases ATK by an additional 300 (which does not count toward this effect's ATK Bonus limit), while <button data-link=\"11310002\"><span style=\"color: #FFD780FF;\">Guidance of Theosis</span></button> decreases nearby opponents' Elemental RES based on the corresponding character's Elemental Type by 25%. This effect does not stack for the same Element.\nAdditionally, when Nicole unleashes her Elemental Skill <span style=\"color: #FFD780FF;\">Revelation: Uncreated Light</span>, nearby active party members will also gain a Shield of Blazing Light."
+      "description": "Enhances the effects of the Elemental Skill <span style=\"color: #FFD780FF;\"><button data-link-s=\"Revelation: Uncreated Light\">Revelation: Uncreated Light</button></span>: <button data-link=\"11310001\"><span style=\"color: #FFD780FF;\">Grace of Kenosis</span></button> increases ATK by an additional 300 (which does not count toward this effect's ATK Bonus limit), while <button data-link=\"11310002\"><span style=\"color: #FFD780FF;\">Guidance of Theosis</span></button> decreases nearby opponents' Elemental RES based on the corresponding character's Elemental Type by 25%. This effect does not stack for the same Element.\nAdditionally, when Nicole unleashes her Elemental Skill <span style=\"color: #FFD780FF;\">Revelation: Uncreated Light</span>, nearby active party members will also gain a Shield of Blazing Light."
     },
     {
       "name": "\"A Lamp by Your Side, A Light to Shine the Way\"",
-      "description": "Increases the Level of <span style=\"color: #FFD780FF;\">Revelation: Uncreated Light</button></span> by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of <span style=\"color: #FFD780FF;\"><button data-link-s=\"Revelation: Uncreated Light\">Revelation: Uncreated Light</button></span> by 3.\nMaximum upgrade level is 15."
     },
     {
       "name": "\"Whether Left or Right, No Matter Which Way You Turn\"",
@@ -459,7 +459,7 @@
     },
     {
       "name": "\"You Will Hear My Voice Beside You\"",
-      "description": "Increases the Level of <span style=\"color: #FFD780FF;\">Revelation: Ladder of Divine Ascent</button></span> by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of <span style=\"color: #FFD780FF;\"><button data-link-s=\"Revelation: Ladder of Divine Ascent\">Revelation: Ladder of Divine Ascent</button></span> by 3.\nMaximum upgrade level is 15."
     },
     {
       "name": "\"This Is the Path, Walk It Without Delay\"",
@@ -468,8 +468,12 @@
   ],
   "passives": [
     {
+      "name": "Witch's Eve Rite: Light in the Darkness",
+      "description": "After completing <span style=\"color: #FFD780FF;\">Witch's Homework: The Role of a Guide...?</span>, Nicole becomes a <span style=\"color: #FFD780FF;\">Hexerei</span> character. When the party includes at least 2 Hexerei characters, you gain the <span style=\"color: #FFD780FF;\">Hexerei: Secret Rite</span> effect, which enhances Hexerei characters.\n\n<span style=\"color: #FFD780FF;\">Hexerei: Secret Rite</span>\nIncreases the DMG dealt by Hexerei characters' <span style=\"color: #FFD780FF;\"><button data-link-s=\"Arcane Projections\">Arcane Projections</button></span> by 300% of Nicole's ATK."
+    },
+    {
       "name": "Methexis",
-      "description": "For 20s after unleashing the Elemental Skill <span style=\"color: #FFD780FF;\">Revelation: Uncreated Light</button></span>, Nicole will continuously \"observe\" the other current active party members. After the observed character has remained on the field for 3s, their <button data-link=\"11310001\"><span style=\"color: #FFD780FF;\">Grace of Kenosis</span></button> is upgraded to <button data-link=\"11310002\"><span style=\"color: #FFD780FF;\">Guidance of Theosis</span></button>, increasing their ATK by an additional 300. If the observed character is a Hexerei character, <span style=\"color: #FFD780FF;\">Grace of Kenosis</span> is upgraded to <span style=\"color: #FFD780FF;\">Guidance of Theosis</span> straight away.\nWhen characters other than Nicole who have <span style=\"color: #FFD780FF;\">Guidance of Theosis</span> leave the field, their effect reverts to <span style=\"color: #FFD780FF;\">Grace of Kenosis</span>."
+      "description": "For 20s after unleashing the Elemental Skill <span style=\"color: #FFD780FF;\"><button data-link-s=\"Revelation: Uncreated Light\">Revelation: Uncreated Light</button></span>, Nicole will continuously \"observe\" the other current active party members. After the observed character has remained on the field for 3s, their <button data-link=\"11310001\"><span style=\"color: #FFD780FF;\">Grace of Kenosis</span></button> is upgraded to <button data-link=\"11310002\"><span style=\"color: #FFD780FF;\">Guidance of Theosis</span></button>, increasing their ATK by an additional 300. If the observed character is a Hexerei character, <span style=\"color: #FFD780FF;\">Grace of Kenosis</span> is upgraded to <span style=\"color: #FFD780FF;\">Guidance of Theosis</span> straight away.\nWhen characters other than Nicole who have <span style=\"color: #FFD780FF;\">Guidance of Theosis</span> leave the field, their effect reverts to <span style=\"color: #FFD780FF;\">Grace of Kenosis</span>."
     },
     {
       "name": "Philokalia",
@@ -478,10 +482,6 @@
     {
       "name": "Nepsis",
       "description": "When you are in Teyvat and not in combat, Nicole's Charged Attack becomes \"Emissarial Guidance\" if you have already obtained the current region's Treasure Compass. Emissarial Guidance: Calls upon nearby Seelie to show the way, triggering an effect similar to the region's Treasure Compass.\nThis effect has a cooldown time of 5 seconds and does not work in Domains, Trounce Domains, and the Spiral Abyss."
-    },
-    {
-      "name": "Witch's Eve Rite: Light in the Darkness",
-      "description": "After completing <span style=\"color: #FFD780FF;\">Witch's Homework: The Role of a Guide...?</span>, Nicole becomes a <span style=\"color: #FFD780FF;\">Hexerei</span> character. When the party includes at least 2 Hexerei characters, you gain the <span style=\"color: #FFD780FF;\">Hexerei: Secret Rite</span> effect, which enhances Hexerei characters.\n\n<span style=\"color: #FFD780FF;\">Hexerei: Secret Rite</span>\nIncreases the DMG dealt by Hexerei characters' <span style=\"color: #FFD780FF;\">Arcane Projections</button></span> by 300% of Nicole's ATK."
     }
   ],
   "links": {
@@ -491,7 +491,7 @@
     },
     "11310002": {
       "title": "Guidance of Theosis",
-      "desc": "Upgrading the <span style=\"color: #FFD780FF;\">Grace of Kenosis</span> effect increases ATK by an additional {PARAM#P1312101|3S1}.\nAfter unlocking the Ascension Talent \"Methexis\" and meeting any of the following observation conditions, <span style=\"color: #FFD780FF;\">Grace of Kenosis</span> will be upgraded to <span style=\"color: #FFD780FF;\">Guidance of Theosis</span> for the remainder of its duration:\n· Another character under observation remains on the field for longer than {PARAM#P1312101|2S1}s; or\n· Another character under observation is a Hexerei character.\n\nAdditionally, after unlocking the Ascension Talent \"Philokalia,\" when a nearby active party member's Elemental DMG hits an opponent, Nicole's own <span style=\"color: #FFD780FF;\">Grace of Kenosis</span> will be upgraded to <span style=\"color: #FFD780FF;\">Guidance of Theosis</span> for {PARAM#P1312201|1S1}s.\n\nWhen characters other than Nicole who have <span style=\"color: #FFD780FF;\">Guidance of Theosis</span> leave the field, their effect will revert to <span style=\"color: #FFD780FF;\">Grace of Kenosis</span>."
+      "desc": "Upgrading the <span style=\"color: #FFD780FF;\">Grace of Kenosis</span> effect increases ATK by an additional 300.\nAfter unlocking the Ascension Talent \"Methexis\" and meeting any of the following observation conditions, <span style=\"color: #FFD780FF;\">Grace of Kenosis</span> will be upgraded to <span style=\"color: #FFD780FF;\">Guidance of Theosis</span> for the remainder of its duration:\n· Another character under observation remains on the field for longer than 3s; or\n· Another character under observation is a Hexerei character.\n\nAdditionally, after unlocking the Ascension Talent \"Philokalia,\" when a nearby active party member's Elemental DMG hits an opponent, Nicole's own <span style=\"color: #FFD780FF;\">Grace of Kenosis</span> will be upgraded to <span style=\"color: #FFD780FF;\">Guidance of Theosis</span> for 8s.\n\nWhen characters other than Nicole who have <span style=\"color: #FFD780FF;\">Guidance of Theosis</span> leave the field, their effect will revert to <span style=\"color: #FFD780FF;\">Grace of Kenosis</span>."
     }
   },
   "burst": {

@@ -447,11 +447,11 @@
     },
     {
       "name": "Rogue's Quick Thinking",
-      "description": "<span style=\"color: #FFD780FF;\">Moonsign: Ascendant Gleam</span>: In the Ascension Talent {LINK#P1242101}<span style=\"color: #FFD780FF;\">\"Plan to Get Paid,\"</span></button> Jahoda can secretly track, in addition to the element with the highest number of characters, the element with the next highest number of characters among the remaining types. This allows up to two elemental effects to be active at once. You must first unlock the Ascension Talent \"Plan to Get Paid.\""
+      "description": "<span style=\"color: #FFD780FF;\">Moonsign: Ascendant Gleam</span>: In the Ascension Talent <button data-link-p=\"\"Plan to Get Paid,\"\"><span style=\"color: #FFD780FF;\">\"Plan to Get Paid,\"</span></button> Jahoda can secretly track, in addition to the element with the highest number of characters, the element with the next highest number of characters among the remaining types. This allows up to two elemental effects to be active at once. You must first unlock the Ascension Talent \"Plan to Get Paid.\""
     },
     {
       "name": "Desperate Gamble",
-      "description": "Increases the Level of <span style=\"color: #FFD780FF;\">Hidden Aces: Seven Tools of the Hunter</button></span> by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of <span style=\"color: #FFD780FF;\"><button data-link-s=\"Hidden Aces: Seven Tools of the Hunter\">Hidden Aces: Seven Tools of the Hunter</button></span> by 3.\nMaximum upgrade level is 15."
     },
     {
       "name": "Wild Berry Amid the Dust",
@@ -459,7 +459,7 @@
     },
     {
       "name": "The Greatest Treasure",
-      "description": "Increases the Level of <span style=\"color: #FFD780FF;\">Savvy Strategy: Splitting the Spoils</button></span> by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of <span style=\"color: #FFD780FF;\"><button data-link-s=\"Savvy Strategy: Splitting the Spoils\">Savvy Strategy: Splitting the Spoils</button></span> by 3.\nMaximum upgrade level is 15."
     },
     {
       "name": "The Littlest Luck",

@@ -443,37 +443,37 @@
   "constellations": [
     {
       "name": "Infallible Procession",
-      "description": "Each time Dahlia gains 1 of his Elemental Burst <span style=\"color: #FFD780FF;\">Radiant Psalter</button></span>'s Benison stacks, he will regain 2.5 Elemental Energy."
+      "description": "Each time Dahlia gains 1 of his Elemental Burst <span style=\"color: #FFD780FF;\"><button data-link-s=\"Radiant Psalter\">Radiant Psalter</button></span>'s Benison stacks, he will regain 2.5 Elemental Energy."
     },
     {
       "name": "Revelation of Mercy",
-      "description": "After Dahlia consumes his Elemental Burst <span style=\"color: #FFD780FF;\">Radiant Psalter</button></span>'s Benison stacks to summon a Shield of Sacred Favor, the character protected by said Shield will gain 25% increased Shield Strength for 12s."
+      "description": "After Dahlia consumes his Elemental Burst <span style=\"color: #FFD780FF;\"><button data-link-s=\"Radiant Psalter\">Radiant Psalter</button></span>'s Benison stacks to summon a Shield of Sacred Favor, the character protected by said Shield will gain 25% increased Shield Strength for 12s."
     },
     {
       "name": "Windblume Offertory",
-      "description": "Increases the Level of <span style=\"color: #FFD780FF;\">Radiant Psalter</button></span> by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of <span style=\"color: #FFD780FF;\"><button data-link-s=\"Radiant Psalter\">Radiant Psalter</button></span> by 3.\nMaximum upgrade level is 15."
     },
     {
       "name": "Collect of the Assembly",
-      "description": "The Favonian Favor from Dahlia's Elemental Burst <span style=\"color: #FFD780FF;\">Radiant Psalter</button></span> lasts 3 more seconds."
+      "description": "The Favonian Favor from Dahlia's Elemental Burst <span style=\"color: #FFD780FF;\"><button data-link-s=\"Radiant Psalter\">Radiant Psalter</button></span> lasts 3 more seconds."
     },
     {
       "name": "Let It Be Subtly So",
-      "description": "Increases the Level of <span style=\"color: #FFD780FF;\">Immersive Ordinance</button></span> by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of <span style=\"color: #FFD780FF;\"><button data-link-s=\"Immersive Ordinance\">Immersive Ordinance</button></span> by 3.\nMaximum upgrade level is 15."
     },
     {
       "name": "You Shall Go Out With Joy",
-      "description": "The current active character affected by the Elemental Burst <span style=\"color: #FFD780FF;\">Radiant Psalter</button></span>'s Favonian Favor has their ATK SPD increased by 10%.\nAdditionally, when an active character affected by Favonian Favor falls, immediately:\n· Revive them.\n· Restore their HP to 100%.\nThis effect can trigger once every 15 minutes."
+      "description": "The current active character affected by the Elemental Burst <span style=\"color: #FFD780FF;\"><button data-link-s=\"Radiant Psalter\">Radiant Psalter</button></span>'s Favonian Favor has their ATK SPD increased by 10%.\nAdditionally, when an active character affected by Favonian Favor falls, immediately:\n· Revive them.\n· Restore their HP to 100%.\nThis effect can trigger once every 15 minutes."
     }
   ],
   "passives": [
     {
       "name": "The Wind's Gentle Grace",
-      "description": "When characters affected by the Favonian Favor effect of the Elemental Burst <span style=\"color: #FFD780FF;\">Radiant Psalter</button></span> trigger Frozen reactions on opponents, they will grant Dahlia 2 Benison stacks. This effect can trigger once every 8s."
+      "description": "When characters affected by the Favonian Favor effect of the Elemental Burst <span style=\"color: #FFD780FF;\"><button data-link-s=\"Radiant Psalter\">Radiant Psalter</button></span> trigger Frozen reactions on opponents, they will grant Dahlia 2 Benison stacks. This effect can trigger once every 8s."
     },
     {
       "name": "Prayer of Well-Wrought Joy",
-      "description": "When your active party member is affected by the Favonian Favor effect of the Elemental Burst <span style=\"color: #FFD780FF;\">\"Radiant Psalter,\"</button></span> their ATK SPD will increase based on Dahlia's Max HP: Every 1,000 Max HP will cause an increase of 0.5%, up to a maximum of 20%."
+      "description": "When your active party member is affected by the Favonian Favor effect of the Elemental Burst <span style=\"color: #FFD780FF;\"><button data-link-s=\"\"Radiant Psalter,\"\">\"Radiant Psalter,\"</button></span> their ATK SPD will increase based on Dahlia's Max HP: Every 1,000 Max HP will cause an increase of 0.5%, up to a maximum of 20%."
     },
     {
       "name": "Pilgrimage Upon Returning Winds",

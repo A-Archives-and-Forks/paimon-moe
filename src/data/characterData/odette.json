@@ -451,7 +451,7 @@
     },
     {
       "name": "\"I'll Chase the Shouting Wind Along, Climbing Alone As I Go\"",
-      "description": "Increases the Level of <span style=\"color: #FFD780FF;\">Adagio: Phantom Night Dancers</button></span> by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of <span style=\"color: #FFD780FF;\"><button data-link-s=\"Adagio: Phantom Night Dancers\">Adagio: Phantom Night Dancers</button></span> by 3.\nMaximum upgrade level is 15."
     },
     {
       "name": "\"Up, Up the Long, Delirious, Burning Blue\"",
@@ -459,7 +459,7 @@
     },
     {
       "name": "\"Oh! I Have Slipped the Surly Bonds of Earth\"",
-      "description": "Increases the Level of <span style=\"color: #FFD780FF;\">Presto: Bluebird Finale</button> </span> by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of <span style=\"color: #FFD780FF;\"><button data-link-s=\"Presto: Bluebird Finale\">Presto: Bluebird Finale</button> </span> by 3.\nMaximum upgrade level is 15."
     },
     {
       "name": "\"Put Out My Hand, and Touched the Face of the Divine\"",
@@ -481,7 +481,7 @@
     },
     {
       "name": "Echo of Winter Daydreams",
-      "description": "Shows the locations of <span style=\"color: #FFD780FF;\">Snezhnaya's Local Specialties</span> on the mini-map.\nPracticing dance in one's spare time might even trigger other effects..."
+      "description": "Shows the locations of <span style=\"color: #FFD780FF;\">Snezhnaya's Local Specialties</span> on the mini-map, and this effect also applies in the Shadow Realm.\nPracticing dance in one's spare time might even trigger other effects..."
     }
   ],
   "links": {
@@ -512,7 +512,7 @@
   },
   "burst": {
     "name": "Presto: Bluebird Finale",
-    "description": "With quick, lively dance steps, Odette deals multiple instances of <span style=\"color: #99FFFFFF;\">AoE Cryo DMG</span>, and summons her <span style=\"color: #FFD780FF;\"><button data-link=\"11500001\">Solo Dance Double</span></button>. She also gains <span style=\"color: #FFD780FF;\">Snow Swan's Dream</span>, which increases the Stellar Glimmer reaction DMG Odette deals.\nAdditionally, for 6s after unleashing the Elemental Burst <span style=\"color: #FFD780FF;\">Presto: Bluebird Finale</span>, Odette's Elemental Skill <span style=\"color: #FFD780FF;\">Adagio: Phantom Night Dancers</span> will be replaced with the special Elemental Skill <button data-link=\"11500002\"><span style=\"color: #FFD780FF;\">Adagio: Coda at Dawn's Tolling</span></button> instead.\n\nIf there is a Solo Dance Double summoned by Odette on the field, it will be summoned to her side with its duration refreshed.\n\n<i>The dawn-lit clouds were hanging just within reach. It was as though she needed only spread her wings to touch them.</i>",
+    "description": "With quick, lively dance steps, Odette deals multiple instances of <span style=\"color: #99FFFFFF;\">AoE Cryo DMG</span>, and summons her <span style=\"color: #FFD780FF;\"><button data-link=\"11500001\">Solo Dance Double</span></button>. She also gains <span style=\"color: #FFD780FF;\">Snow Swan's Dream</span>, which increases the Stellar Glimmer reaction DMG Odette deals.\nAdditionally, for 6s after unleashing the Elemental Burst <span style=\"color: #FFD780FF;\">Presto: Bluebird Finale</span>, Odette's Elemental Skill <span style=\"color: #FFD780FF;\">Adagio: Phantom Night Dancers</span> will be replaced with the special Elemental Skill <button data-link=\"11500002\"><span style=\"color: #FFD780FF;\">Adagio: Coda at Dawn's Tolling</span></button><button data-link=\"11500004\"></button> instead.\n\nIf there is a Solo Dance Double summoned by Odette on the field, it will be summoned to her side with its duration refreshed.\n\n<i>The dawn-lit clouds were hanging just within reach. It was as though she needed only spread her wings to touch them.</i>",
     "skillLabels": [
       "Slash DMG",
       "Final Slash DMG",
@@ -1350,7 +1350,7 @@
   },
   "elementalSkill": {
     "name": "Adagio: Phantom Night Dancers",
-    "description": "With slow, graceful dance steps, Odette deals <span style=\"color: #99FFFFFF;\">AoE Cryo DMG</span> to the opponent, and also summons her <button data-link=\"11500001\"><span style=\"color: #FFD780FF;\">Solo Dance Double</span></button> to the field.\nIf a <span style=\"color: #FFD780FF;\">Dance Double</span> summoned by Odette is already on the field, this will re-summon the Dance Double and reset its duration.\n\n<span style=\"color: #FFD780FF;\">Solo Dance Double</span>\nAlternates between the <span style=\"color: #FFD780FF;\">Plume</span> and <span style=\"color: #FFD780FF;\">Wing</span> dance moves, periodically attacking nearby opponents and dealing to them <span style=\"color: #99FFFFFF;\">AoE Cryo DMG</span>.\nAdditionally, for 6s after unleashing the Elemental Skill <span style=\"color: #FFD780FF;\">Adagio: Phantom Night Dancers</span>, Odette's Elemental Skill <span style=\"color: #FFD780FF;\">Adagio: Phantom Night Dancers</span> will become the special Elemental Skill <button data-link=\"11500002\"><span style=\"color: #FFD780FF;\">Adagio: Coda at Dawn's Tolling</span></button> instead, where a dance duet deals <span style=\"color: #99FFFFFF;\">AoE Cryo DMG</span> to nearby opponents over time. Then, when the duet ends, she deals another instance of <span style=\"color: #99FFFFFF;\">AoE Cryo DMG</span> that is considered Stellar-Conduct or Stellar Swirl DMG.\n\n<i>\"Dance, o candle flame of winter, dance!\"\n\"Pain and tears, laughter and happiness... Life, o life! Life is but a fleeting solo dance: one is only briefly alive with music and mirth before they fade into silence as the curtain falls...\"</i>",
+    "description": "With slow, graceful dance steps, Odette deals <span style=\"color: #99FFFFFF;\">AoE Cryo DMG</span> to the opponent, and also summons her <button data-link=\"11500001\"><span style=\"color: #FFD780FF;\">Solo Dance Double</span></button> to the field.\nIf a <span style=\"color: #FFD780FF;\">Dance Double</span> summoned by Odette is already on the field, this will re-summon the Dance Double and reset its duration.\n\n<span style=\"color: #FFD780FF;\">Solo Dance Double</span>\nAlternates between the <span style=\"color: #FFD780FF;\">Plume</span> and <span style=\"color: #FFD780FF;\">Wing</span> dance moves, periodically attacking nearby opponents and dealing to them <span style=\"color: #99FFFFFF;\">AoE Cryo DMG</span>.\nAdditionally, for 6s after unleashing the Elemental Skill <span style=\"color: #FFD780FF;\">Adagio: Phantom Night Dancers</span>, Odette's Elemental Skill <span style=\"color: #FFD780FF;\">Adagio: Phantom Night Dancers</span> will become the special Elemental Skill <button data-link=\"11500002\"><span style=\"color: #FFD780FF;\">Adagio: Coda at Dawn's Tolling</span></button><button data-link=\"11500004\"></button> instead, where a dance duet deals <span style=\"color: #99FFFFFF;\">AoE Cryo DMG</span> to nearby opponents over time. Then, when the duet ends, she deals another instance of <span style=\"color: #99FFFFFF;\">AoE Cryo DMG</span> that is considered Stellar-Conduct or Stellar Swirl DMG.\n\n<i>\"Dance, o candle flame of winter, dance!\"\n\"Pain and tears, laughter and happiness... Life, o life! Life is but a fleeting solo dance: one is only briefly alive with music and mirth before they fade into silence as the curtain falls...\"</i>",
     "skillLabels": [
       "Skill DMG",
       "Coda at Dawn's Tolling DoT",

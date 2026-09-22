@@ -31,11 +31,17 @@
 </div>
 
 <style lang="postcss">
-  :global(button[data-link]) {
+  :global(button[data-link]),
+  :global(button[data-link-p]),
+  :global(button[data-link-s]),
+  :global(button[data-link-c]) {
     text-decoration: underline;
   }
 
-  :global(button[data-link]):hover {
+  :global(button[data-link]):hover,
+  :global(button[data-link-p]):hover,
+  :global(button[data-link-s]):hover,
+  :global(button[data-link-c]):hover {
     filter: brightness(0.8);
   }
 

@@ -451,7 +451,7 @@
     },
     {
       "name": "Serendipitous Sin",
-      "description": "Increases the Level of <span style=\"color: #FFD780FF;\">Havoc: Ruin</span></button> by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of <button data-link-s=\"Havoc: Ruin\"><span style=\"color: #FFD780FF;\">Havoc: Ruin</span></button> by 3.\nMaximum upgrade level is 15."
     },
     {
       "name": "Fractured Flow",
@@ -459,7 +459,7 @@
     },
     {
       "name": "End of Wishes",
-      "description": "Increases the Level of <span style=\"color: #FFD780FF;\">Havoc: Warp</span></button> by 3.\nMaximum upgrade level is 15."
+      "description": "Increases the Level of <button data-link-s=\"Havoc: Warp\"><span style=\"color: #FFD780FF;\">Havoc: Warp</span></button> by 3.\nMaximum upgrade level is 15."
     },
     {
       "name": "To the Source",
