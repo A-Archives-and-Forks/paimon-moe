@@ -13,8 +13,8 @@
 
   const dispatch = createEventDispatcher();
 
-  const char1 = latestBanner[1];
-  const char2 = latestBanner[0];
+  const char1 = latestBanner[0];
+  const char2 = latestBanner[1];
   const featured = {
     [char1.id]: {
       name: char1.name,
@@ -31,10 +31,10 @@
       percentage: '...',
     },
   };
-  const bannerId = 300105;
-  const image = 'ineffa flins.webp';
+  const bannerId = 300106;
+  const image = 'vodyanitsa vesna.webp';
   const width = 800;
-  const height = 365;
+  const height = 371;
 
   let loading = true;
   let user = '';
