@@ -3484,7 +3484,7 @@ export const banners = {
     {
       name: 'Epitome Invocation',
       image: 105,
-      shortName: 'Bloodsoaked',
+      shortName: 'Chrysalis',
       start: '2026-09-23 06:00:00',
       end: '2026-10-13 17:59:59',
       color: '#ffb169',
